@@ -1,0 +1,18 @@
+﻿{
+  "Make": "Reliant",
+  "Models": [
+    {
+      "Model": "Robin",
+      "Generations": [
+        "1989—2001 II",
+        "1973—1981 I"
+      ]
+    },
+    {
+      "Model": "Scimitar",
+      "Generations": [
+        "1984—1990 I"
+      ]
+    }
+  ]
+}

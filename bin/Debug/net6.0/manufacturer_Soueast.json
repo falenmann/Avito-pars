@@ -1,0 +1,71 @@
+﻿{
+  "Make": "Soueast",
+  "Models": [
+    {
+      "Model": "A5",
+      "Generations": [
+        "2018—2024 I"
+      ]
+    },
+    {
+      "Model": "DX3",
+      "Generations": [
+        "2019—2024 I"
+      ]
+    },
+    {
+      "Model": "DX3 EV",
+      "Generations": [
+        "2017—2024 I"
+      ]
+    },
+    {
+      "Model": "DX5",
+      "Generations": [
+        "2019—2024 I"
+      ]
+    },
+    {
+      "Model": "DX7",
+      "Generations": [
+        "2017—2020 I"
+      ]
+    },
+    {
+      "Model": "DX8S",
+      "Generations": [
+        "2022—2024 I"
+      ]
+    },
+    {
+      "Model": "Lioncel",
+      "Generations": [
+        "2005—2010 I"
+      ]
+    },
+    {
+      "Model": "Soveran",
+      "Generations": [
+        "2005—2008 I"
+      ]
+    },
+    {
+      "Model": "V3",
+      "Generations": [
+        "2008—2017 I"
+      ]
+    },
+    {
+      "Model": "V5",
+      "Generations": [
+        "2012—2017 I"
+      ]
+    },
+    {
+      "Model": "V6 Cross",
+      "Generations": [
+        "2015—2017 I"
+      ]
+    }
+  ]
+}

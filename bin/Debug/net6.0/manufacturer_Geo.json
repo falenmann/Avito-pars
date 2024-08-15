@@ -1,0 +1,30 @@
+﻿{
+  "Make": "Geo",
+  "Models": [
+    {
+      "Model": "Metro",
+      "Generations": [
+        "1989—1997 I"
+      ]
+    },
+    {
+      "Model": "Prizm",
+      "Generations": [
+        "1997—2002 III",
+        "1992—1997 II"
+      ]
+    },
+    {
+      "Model": "Storm",
+      "Generations": [
+        "1990—1993 I"
+      ]
+    },
+    {
+      "Model": "Tracker",
+      "Generations": [
+        "1989—1998 I"
+      ]
+    }
+  ]
+}

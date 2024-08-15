@@ -1,0 +1,35 @@
+﻿{
+  "Make": "Neta",
+  "Models": [
+    {
+      "Model": "GT",
+      "Generations": [
+        "2023—2024 I"
+      ]
+    },
+    {
+      "Model": "S",
+      "Generations": [
+        "2022—2024 I"
+      ]
+    },
+    {
+      "Model": "U",
+      "Generations": [
+        "2019—2024 I"
+      ]
+    },
+    {
+      "Model": "V",
+      "Generations": [
+        "2019—2024 I"
+      ]
+    },
+    {
+      "Model": "X",
+      "Generations": [
+        "2023—2024 I"
+      ]
+    }
+  ]
+}

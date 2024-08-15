@@ -1,0 +1,23 @@
+﻿{
+  "Make": "DeSoto",
+  "Models": [
+    {
+      "Model": "Custom",
+      "Generations": [
+        "1949—1952 II"
+      ]
+    },
+    {
+      "Model": "Firedome",
+      "Generations": [
+        "1952—1959 I"
+      ]
+    },
+    {
+      "Model": "Fireflite",
+      "Generations": [
+        "1955—1960 I"
+      ]
+    }
+  ]
+}

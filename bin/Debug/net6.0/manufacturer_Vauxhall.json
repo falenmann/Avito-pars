@@ -1,0 +1,24 @@
+﻿{
+  "Make": "Vauxhall",
+  "Models": [
+    {
+      "Model": "Astra",
+      "Generations": [
+        "2009—2015 J",
+        "2004—2010 H"
+      ]
+    },
+    {
+      "Model": "Cavalier",
+      "Generations": [
+        "1975—1981 I"
+      ]
+    },
+    {
+      "Model": "Viva",
+      "Generations": [
+        "1970—1979 HC"
+      ]
+    }
+  ]
+}

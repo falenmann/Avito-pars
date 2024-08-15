@@ -1,0 +1,23 @@
+﻿{
+  "Make": "Leapmotor",
+  "Models": [
+    {
+      "Model": "C01",
+      "Generations": [
+        "2022—2024 I"
+      ]
+    },
+    {
+      "Model": "C11",
+      "Generations": [
+        "2021—2024 I"
+      ]
+    },
+    {
+      "Model": "T03",
+      "Generations": [
+        "2020—2024 I"
+      ]
+    }
+  ]
+}

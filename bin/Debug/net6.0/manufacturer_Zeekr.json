@@ -1,0 +1,30 @@
+﻿{
+  "Make": "Zeekr",
+  "Models": [
+    {
+      "Model": "001",
+      "Generations": [
+        "2023—2024 I рестайлинг",
+        "2021—2024 I"
+      ]
+    },
+    {
+      "Model": "007",
+      "Generations": [
+        "2023—2024 I"
+      ]
+    },
+    {
+      "Model": "009",
+      "Generations": [
+        "2022—2024 I"
+      ]
+    },
+    {
+      "Model": "X",
+      "Generations": [
+        "2023—2024 I"
+      ]
+    }
+  ]
+}

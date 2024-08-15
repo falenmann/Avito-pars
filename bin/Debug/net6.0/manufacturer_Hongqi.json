@@ -1,0 +1,86 @@
+﻿{
+  "Make": "Hongqi",
+  "Models": [
+    {
+      "Model": "E-HS3",
+      "Generations": [
+        "2019—2024 I"
+      ]
+    },
+    {
+      "Model": "E-HS9",
+      "Generations": [
+        "2020—2024 I"
+      ]
+    },
+    {
+      "Model": "E-QM5",
+      "Generations": [
+        "2021—2024 I"
+      ]
+    },
+    {
+      "Model": "H5",
+      "Generations": [
+        "2022—2024 II",
+        "2017—2022 I"
+      ]
+    },
+    {
+      "Model": "H6",
+      "Generations": [
+        "2023—2024 I"
+      ]
+    },
+    {
+      "Model": "H7",
+      "Generations": [
+        "2016—2024 I рестайлинг",
+        "2013—2016 I"
+      ]
+    },
+    {
+      "Model": "H9",
+      "Generations": [
+        "2019—2024 I"
+      ]
+    },
+    {
+      "Model": "H9 Plus",
+      "Generations": [
+        "2020—2024 I"
+      ]
+    },
+    {
+      "Model": "HQ9",
+      "Generations": [
+        "2022—2024 I"
+      ]
+    },
+    {
+      "Model": "HS5",
+      "Generations": [
+        "2023—2024 I рестайлинг",
+        "2019—2024 I"
+      ]
+    },
+    {
+      "Model": "HS7",
+      "Generations": [
+        "2019—2023 I"
+      ]
+    },
+    {
+      "Model": "L5",
+      "Generations": [
+        "2014—2024 I"
+      ]
+    },
+    {
+      "Model": "LS7",
+      "Generations": [
+        "2022—2024 I"
+      ]
+    }
+  ]
+}

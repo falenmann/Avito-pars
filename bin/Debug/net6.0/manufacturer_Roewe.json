@@ -1,0 +1,60 @@
+﻿{
+  "Make": "Roewe",
+  "Models": [
+    {
+      "Model": "750",
+      "Generations": [
+        "2006—2016 I"
+      ]
+    },
+    {
+      "Model": "Ei5",
+      "Generations": [
+        "2017—2020 I"
+      ]
+    },
+    {
+      "Model": "Marvel R",
+      "Generations": [
+        "2020—2024 I"
+      ]
+    },
+    {
+      "Model": "RX5",
+      "Generations": [
+        "2022—2024 II"
+      ]
+    },
+    {
+      "Model": "RX5 Max",
+      "Generations": [
+        "2019—2021 I"
+      ]
+    },
+    {
+      "Model": "RX8",
+      "Generations": [
+        "2018—2024 I"
+      ]
+    },
+    {
+      "Model": "RX9",
+      "Generations": [
+        "2022—2024 I"
+      ]
+    },
+    {
+      "Model": "i5",
+      "Generations": [
+        "2021—2024 I рестайлинг",
+        "2017—2021 I"
+      ]
+    },
+    {
+      "Model": "iMAX 8",
+      "Generations": [
+        "2020—2024 I"
+      ]
+    }
+  ]
+}

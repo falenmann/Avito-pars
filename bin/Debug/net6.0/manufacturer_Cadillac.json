@@ -1,0 +1,227 @@
+﻿{
+  "Make": "Cadillac",
+  "Models": [
+    {
+      "Model": "ATS",
+      "Generations": [
+        "2014—2019 I рестайлинг",
+        "2012—2014 I"
+      ]
+    },
+    {
+      "Model": "BLS",
+      "Generations": [
+        "2006—2009 I"
+      ]
+    },
+    {
+      "Model": "Brougham",
+      "Generations": [
+        "1987—1992 I"
+      ]
+    },
+    {
+      "Model": "CT4",
+      "Generations": [
+        "2019—2024 I"
+      ]
+    },
+    {
+      "Model": "CT4-V",
+      "Generations": [
+        "2019—2024 I"
+      ]
+    },
+    {
+      "Model": "CT5",
+      "Generations": [
+        "2019—2024 I"
+      ]
+    },
+    {
+      "Model": "CT5-V",
+      "Generations": [
+        "2019—2024 I"
+      ]
+    },
+    {
+      "Model": "CT6",
+      "Generations": [
+        "2018—2023 I рестайлинг",
+        "2016—2019 I"
+      ]
+    },
+    {
+      "Model": "CTS",
+      "Generations": [
+        "2013—2019 III",
+        "2007—2014 II",
+        "2002—2007 I"
+      ]
+    },
+    {
+      "Model": "CTS-V",
+      "Generations": [
+        "2013—2019 III",
+        "2007—2014 II",
+        "2004—2007 I"
+      ]
+    },
+    {
+      "Model": "Catera",
+      "Generations": [
+        "1996—2001 I"
+      ]
+    },
+    {
+      "Model": "DE Ville",
+      "Generations": [
+        "1999—2005 VIII",
+        "1994—1999 VII",
+        "1985—1993 VI",
+        "1977—1984 V",
+        "1971—1976 IV",
+        "1965—1970 III",
+        "1961—1964 II",
+        "1958—1960 I"
+      ]
+    },
+    {
+      "Model": "DTS",
+      "Generations": [
+        "2005—2011 I"
+      ]
+    },
+    {
+      "Model": "ELR",
+      "Generations": [
+        "2015—2016 I рестайлинг",
+        "2013—2015 I"
+      ]
+    },
+    {
+      "Model": "Eldorado",
+      "Generations": [
+        "1992—2002 X",
+        "1986—1991 IX",
+        "1979—1985 VIII",
+        "1971—1978 VII",
+        "1967—1970 VI",
+        "1965—1966 V",
+        "1960—1964 IV",
+        "1957—1959 III",
+        "1954—1956 II",
+        "1953 I"
+      ]
+    },
+    {
+      "Model": "Escalade",
+      "Generations": [
+        "2020—2024 GMT 1XX",
+        "2014—2020 GMT K2",
+        "2006—2014 GMT900",
+        "2001—2006 GMT800",
+        "1998—2000 GMT400"
+      ]
+    },
+    {
+      "Model": "Escalade IQ",
+      "Generations": [
+        "2023—2024 I"
+      ]
+    },
+    {
+      "Model": "Escalade-V",
+      "Generations": [
+        "2022—2024 GMT 1XX"
+      ]
+    },
+    {
+      "Model": "Fleetwood",
+      "Generations": [
+        "1993—1996 II",
+        "1956—1992 75 Series"
+      ]
+    },
+    {
+      "Model": "GT4",
+      "Generations": [
+        "2023—2024 I"
+      ]
+    },
+    {
+      "Model": "Lyriq",
+      "Generations": [
+        "2022—2024 I"
+      ]
+    },
+    {
+      "Model": "Model 30",
+      "Generations": [
+        "1909—1914 I"
+      ]
+    },
+    {
+      "Model": "SRX",
+      "Generations": [
+        "2012—2016 II рестайлинг",
+        "2009—2012 II",
+        "2003—2009 I"
+      ]
+    },
+    {
+      "Model": "STS",
+      "Generations": [
+        "2007—2011 I рестайлинг",
+        "2004—2007 I"
+      ]
+    },
+    {
+      "Model": "Series 314",
+      "Generations": [
+        "1925—1927 I"
+      ]
+    },
+    {
+      "Model": "Seville",
+      "Generations": [
+        "1998—2004 V",
+        "1992—1997 IV",
+        "1986—1991 III",
+        "1980—1985 II",
+        "1975—1979 I"
+      ]
+    },
+    {
+      "Model": "XLR",
+      "Generations": [
+        "2003—2009 I"
+      ]
+    },
+    {
+      "Model": "XT4",
+      "Generations": [
+        "2018—2023 I"
+      ]
+    },
+    {
+      "Model": "XT5",
+      "Generations": [
+        "2019—2024 I рестайлинг",
+        "2016—2019 I"
+      ]
+    },
+    {
+      "Model": "XT6",
+      "Generations": [
+        "2019—2024 I"
+      ]
+    },
+    {
+      "Model": "XTS",
+      "Generations": [
+        "2012—2019 I"
+      ]
+    }
+  ]
+}

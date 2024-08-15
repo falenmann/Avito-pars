@@ -1,0 +1,70 @@
+﻿{
+  "Make": "Lamborghini",
+  "Models": [
+    {
+      "Model": "Aventador",
+      "Generations": [
+        "2016—2024 I рестайлинг",
+        "2011—2017 I"
+      ]
+    },
+    {
+      "Model": "Countach",
+      "Generations": [
+        "2021—2024 II",
+        "1974—1990 I"
+      ]
+    },
+    {
+      "Model": "Diablo",
+      "Generations": [
+        "1990—2001 I"
+      ]
+    },
+    {
+      "Model": "Gallardo",
+      "Generations": [
+        "2008—2013 I рестайлинг",
+        "2003—2008 I"
+      ]
+    },
+    {
+      "Model": "Huracan",
+      "Generations": [
+        "2014—2024 I"
+      ]
+    },
+    {
+      "Model": "LM002",
+      "Generations": [
+        "1986—1993 I"
+      ]
+    },
+    {
+      "Model": "Miura",
+      "Generations": [
+        "1966—1973 I"
+      ]
+    },
+    {
+      "Model": "Murcielago",
+      "Generations": [
+        "2005—2010 I рестайлинг",
+        "2001—2006 I"
+      ]
+    },
+    {
+      "Model": "Revuelto",
+      "Generations": [
+        "2023—2024 I"
+      ]
+    },
+    {
+      "Model": "Urus",
+      "Generations": [
+        "2022—2024 I рестайлинг",
+        "2017—2022 I"
+      ]
+    }
+  ]
+}

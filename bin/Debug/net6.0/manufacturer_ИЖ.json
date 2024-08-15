@@ -1,0 +1,41 @@
+﻿{
+  "Make": "ИЖ",
+  "Models": [
+    {
+      "Model": "2125",
+      "Generations": [
+        "1973—1997 I"
+      ]
+    },
+    {
+      "Model": "2126",
+      "Generations": [
+        "1991—2005 I"
+      ]
+    },
+    {
+      "Model": "21261",
+      "Generations": [
+        "2004—2005 I"
+      ]
+    },
+    {
+      "Model": "2715",
+      "Generations": [
+        "1972—2001 I"
+      ]
+    },
+    {
+      "Model": "2717",
+      "Generations": [
+        "1997—2012 I"
+      ]
+    },
+    {
+      "Model": "Москвич-412",
+      "Generations": [
+        "1967—2001 I"
+      ]
+    }
+  ]
+}

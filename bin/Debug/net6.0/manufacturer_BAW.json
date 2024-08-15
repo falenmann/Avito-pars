@@ -1,0 +1,48 @@
+﻿{
+  "Make": "BAW",
+  "Models": [
+    {
+      "Model": "007",
+      "Generations": [
+        "2014—2024 I рестайлинг",
+        "2011—2014 I"
+      ]
+    },
+    {
+      "Model": "212",
+      "Generations": [
+        "2020—2024 I"
+      ]
+    },
+    {
+      "Model": "Ace M7",
+      "Generations": [
+        "2022—2024 I"
+      ]
+    },
+    {
+      "Model": "Fenix",
+      "Generations": [
+        "2005—2017 I"
+      ]
+    },
+    {
+      "Model": "Land King",
+      "Generations": [
+        "2001—2017 I"
+      ]
+    },
+    {
+      "Model": "Tonik",
+      "Generations": [
+        "2010—2017 I"
+      ]
+    },
+    {
+      "Model": "Yuanbao",
+      "Generations": [
+        "2022—2024 I"
+      ]
+    }
+  ]
+}

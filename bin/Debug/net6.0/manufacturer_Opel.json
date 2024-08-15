@@ -1,0 +1,420 @@
+﻿{
+  "Make": "Opel",
+  "Models": [
+    {
+      "Model": "Adam",
+      "Generations": [
+        "2013—2019 I"
+      ]
+    },
+    {
+      "Model": "Adam Rocks",
+      "Generations": [
+        "2013—2019 I"
+      ]
+    },
+    {
+      "Model": "Admiral",
+      "Generations": [
+        "1969—1978 B",
+        "1964—1968 A",
+        "1937—1939 37"
+      ]
+    },
+    {
+      "Model": "Agila",
+      "Generations": [
+        "2008—2014 B",
+        "2004—2007 A рестайлинг",
+        "2000—2004 A"
+      ]
+    },
+    {
+      "Model": "Ampera",
+      "Generations": [
+        "2017—2024 II",
+        "2011—2015 I"
+      ]
+    },
+    {
+      "Model": "Antara",
+      "Generations": [
+        "2010—2017 I рестайлинг",
+        "2006—2011 I"
+      ]
+    },
+    {
+      "Model": "Arena",
+      "Generations": [
+        "1997—2001 I"
+      ]
+    },
+    {
+      "Model": "Ascona",
+      "Generations": [
+        "1981—1988 C",
+        "1975—1981 B",
+        "1970—1975 A"
+      ]
+    },
+    {
+      "Model": "Astra",
+      "Generations": [
+        "2021—2024 L",
+        "2019—2021 K рестайлинг",
+        "2015—2019 K",
+        "2012—2018 J рестайлинг",
+        "2009—2012 J",
+        "2006—2014 H рестайлинг",
+        "2004—2007 H",
+        "1998—2009 G",
+        "1991—2005 F"
+      ]
+    },
+    {
+      "Model": "Astra Family",
+      "Generations": [
+        "2010—2014 H рестайлинг"
+      ]
+    },
+    {
+      "Model": "Astra GTC",
+      "Generations": [
+        "2011—2017 J рестайлинг",
+        "2009—2012 J",
+        "2006—2014 H рестайлинг",
+        "2004—2007 H"
+      ]
+    },
+    {
+      "Model": "Astra OPC",
+      "Generations": [
+        "2012—2015 J",
+        "2005—2010 H",
+        "2002—2004 G рестайлинг",
+        "1999—2002 G"
+      ]
+    },
+    {
+      "Model": "Bedford",
+      "Generations": [
+        "1969—1988 I"
+      ]
+    },
+    {
+      "Model": "Calibra",
+      "Generations": [
+        "1990—1997 I"
+      ]
+    },
+    {
+      "Model": "Campo",
+      "Generations": [
+        "1991—2000 I"
+      ]
+    },
+    {
+      "Model": "Cascada",
+      "Generations": [
+        "2013—2019 I"
+      ]
+    },
+    {
+      "Model": "Combo",
+      "Generations": [
+        "2017—2024 E",
+        "2011—2017 D",
+        "2003—2011 C рестайлинг",
+        "2001—2003 C",
+        "1993—2000 B"
+      ]
+    },
+    {
+      "Model": "Combo Life",
+      "Generations": [
+        "2018—2024 I"
+      ]
+    },
+    {
+      "Model": "Commodore",
+      "Generations": [
+        "1978—1982 C",
+        "1972—1978 B",
+        "1967—1971 A"
+      ]
+    },
+    {
+      "Model": "Corsa",
+      "Generations": [
+        "2019—2024 F",
+        "2014—2019 E",
+        "2011—2014 D рестайлинг 2",
+        "2010—2011 D рестайлинг",
+        "2006—2010 D",
+        "2003—2006 C рестайлинг",
+        "2000—2003 C",
+        "1993—2000 B",
+        "1982—1993 A"
+      ]
+    },
+    {
+      "Model": "Corsa OPC",
+      "Generations": [
+        "2011—2014 D рестайлинг 2",
+        "2010—2011 D рестайлинг",
+        "2006—2010 D"
+      ]
+    },
+    {
+      "Model": "Crossland",
+      "Generations": [
+        "2020—2024 I"
+      ]
+    },
+    {
+      "Model": "Crossland X",
+      "Generations": [
+        "2017—2021 I"
+      ]
+    },
+    {
+      "Model": "Diplomat",
+      "Generations": [
+        "1969—1978 B",
+        "1964—1968 A"
+      ]
+    },
+    {
+      "Model": "Frontera",
+      "Generations": [
+        "2001—2004 B рестайлинг",
+        "1998—2001 B",
+        "1992—1998 A"
+      ]
+    },
+    {
+      "Model": "GT",
+      "Generations": [
+        "2006—2009 II",
+        "1968—1973 I"
+      ]
+    },
+    {
+      "Model": "Grandland X",
+      "Generations": [
+        "2017—2022 I"
+      ]
+    },
+    {
+      "Model": "Insignia",
+      "Generations": [
+        "2020—2024 II рестайлинг",
+        "2017—2020 II",
+        "2013—2017 I рестайлинг",
+        "2008—2013 I"
+      ]
+    },
+    {
+      "Model": "Insignia OPC",
+      "Generations": [
+        "2013—2017 I рестайлинг",
+        "2009—2013 I"
+      ]
+    },
+    {
+      "Model": "Kadett",
+      "Generations": [
+        "1989—1993 E рестайлинг",
+        "1984—1989 E",
+        "1979—1984 D",
+        "1973—1979 C",
+        "1965—1973 B",
+        "1962—1965 A",
+        "1937—1940 37"
+      ]
+    },
+    {
+      "Model": "Kapitan",
+      "Generations": [
+        "1953—1958 II",
+        "1951—1953 I рестайлинг",
+        "1938—1950 I"
+      ]
+    },
+    {
+      "Model": "Karl",
+      "Generations": [
+        "2015—2019 I"
+      ]
+    },
+    {
+      "Model": "Manta",
+      "Generations": [
+        "1975—1988 B",
+        "1970—1975 A"
+      ]
+    },
+    {
+      "Model": "Meriva",
+      "Generations": [
+        "2014—2018 B рестайлинг",
+        "2010—2014 B",
+        "2006—2010 A рестайлинг",
+        "2003—2006 A"
+      ]
+    },
+    {
+      "Model": "Meriva OPC",
+      "Generations": [
+        "2006—2010 A рестайлинг"
+      ]
+    },
+    {
+      "Model": "Mokka",
+      "Generations": [
+        "2021—2024 II",
+        "2016—2020 I рестайлинг",
+        "2012—2016 I"
+      ]
+    },
+    {
+      "Model": "Monterey",
+      "Generations": [
+        "1998—1999 A рестайлинг",
+        "1992—1998 A"
+      ]
+    },
+    {
+      "Model": "Monza",
+      "Generations": [
+        "1978—1986 I"
+      ]
+    },
+    {
+      "Model": "Movano",
+      "Generations": [
+        "2010—2024 B",
+        "1998—2010 A"
+      ]
+    },
+    {
+      "Model": "Olympia",
+      "Generations": [
+        "1950—1953 II",
+        "1935—1949 I"
+      ]
+    },
+    {
+      "Model": "Omega",
+      "Generations": [
+        "1999—2004 B рестайлинг",
+        "1994—1999 B",
+        "1984—1994 A"
+      ]
+    },
+    {
+      "Model": "P4",
+      "Generations": [
+        "1935—1937 I"
+      ]
+    },
+    {
+      "Model": "Rekord",
+      "Generations": [
+        "1977—1986 E",
+        "1972—1977 D",
+        "1967—1971 C",
+        "1965—1966 B",
+        "1963—1965 A"
+      ]
+    },
+    {
+      "Model": "Senator",
+      "Generations": [
+        "1987—1993 B",
+        "1978—1987 A"
+      ]
+    },
+    {
+      "Model": "Signum",
+      "Generations": [
+        "2005—2008 I рестайлинг",
+        "2003—2005 I"
+      ]
+    },
+    {
+      "Model": "Sintra",
+      "Generations": [
+        "1996—1999 I"
+      ]
+    },
+    {
+      "Model": "Super 6",
+      "Generations": [
+        "1936—1938 I"
+      ]
+    },
+    {
+      "Model": "Tigra",
+      "Generations": [
+        "2004—2009 B рестайлинг",
+        "1994—2001 A"
+      ]
+    },
+    {
+      "Model": "Vectra",
+      "Generations": [
+        "2005—2008 C рестайлинг",
+        "2002—2005 C",
+        "1999—2002 B рестайлинг",
+        "1995—2000 B",
+        "1988—1995 A"
+      ]
+    },
+    {
+      "Model": "Vectra OPC",
+      "Generations": [
+        "2006—2009 C рестайлинг"
+      ]
+    },
+    {
+      "Model": "Vita",
+      "Generations": [
+        "2000—2004 C",
+        "1995—2000 B"
+      ]
+    },
+    {
+      "Model": "Vivaro",
+      "Generations": [
+        "2019—2024 C",
+        "2014—2019 B",
+        "2001—2014 A"
+      ]
+    },
+    {
+      "Model": "Zafira",
+      "Generations": [
+        "2016—2019 C рестайлинг",
+        "2011—2016 C",
+        "2008—2014 B рестайлинг",
+        "2005—2008 B",
+        "2003—2006 A рестайлинг",
+        "1999—2003 A"
+      ]
+    },
+    {
+      "Model": "Zafira Life",
+      "Generations": [
+        "2019—2024 I"
+      ]
+    },
+    {
+      "Model": "Zafira OPC",
+      "Generations": [
+        "2005—2010 B",
+        "2001—2005 A"
+      ]
+    }
+  ]
+}

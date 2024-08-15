@@ -1,0 +1,30 @@
+﻿{
+  "Make": "Hummer",
+  "Models": [
+    {
+      "Model": "H1",
+      "Generations": [
+        "1992—2006 I"
+      ]
+    },
+    {
+      "Model": "H2",
+      "Generations": [
+        "2007—2009 I рестайлинг",
+        "2002—2007 I"
+      ]
+    },
+    {
+      "Model": "H3",
+      "Generations": [
+        "2005—2010 I"
+      ]
+    },
+    {
+      "Model": "HMWV М-998",
+      "Generations": [
+        "1984—1993 I"
+      ]
+    }
+  ]
+}

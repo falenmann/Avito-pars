@@ -1,0 +1,41 @@
+﻿{
+  "Make": "Forthing",
+  "Models": [
+    {
+      "Model": "Lingzhi M5",
+      "Generations": [
+        "2020—2024 I"
+      ]
+    },
+    {
+      "Model": "M7",
+      "Generations": [
+        "2020—2024 I"
+      ]
+    },
+    {
+      "Model": "T5",
+      "Generations": [
+        "2022—2024 I рестайлинг 2"
+      ]
+    },
+    {
+      "Model": "T5 EVO",
+      "Generations": [
+        "2020—2024 I"
+      ]
+    },
+    {
+      "Model": "T5L",
+      "Generations": [
+        "2018—2024 I"
+      ]
+    },
+    {
+      "Model": "Yacht",
+      "Generations": [
+        "2022—2024 I"
+      ]
+    }
+  ]
+}

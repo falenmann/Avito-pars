@@ -1,0 +1,65 @@
+﻿{
+  "Make": "SWM",
+  "Models": [
+    {
+      "Model": "G01",
+      "Generations": [
+        "2019—2024 I"
+      ]
+    },
+    {
+      "Model": "G01F",
+      "Generations": [
+        "2022—2024 I"
+      ]
+    },
+    {
+      "Model": "G01FF",
+      "Generations": [
+        "2018—2024 I"
+      ]
+    },
+    {
+      "Model": "G05",
+      "Generations": [
+        "2019—2021 I"
+      ]
+    },
+    {
+      "Model": "G05 Pro",
+      "Generations": [
+        "2021—2024 I"
+      ]
+    },
+    {
+      "Model": "Iron Man",
+      "Generations": [
+        "2021—2022 I"
+      ]
+    },
+    {
+      "Model": "Tiger",
+      "Generations": [
+        "2022—2024 I"
+      ]
+    },
+    {
+      "Model": "X2",
+      "Generations": [
+        "2020—2023 I"
+      ]
+    },
+    {
+      "Model": "X3",
+      "Generations": [
+        "2017—2024 I"
+      ]
+    },
+    {
+      "Model": "X7",
+      "Generations": [
+        "2019—2024 I"
+      ]
+    }
+  ]
+}

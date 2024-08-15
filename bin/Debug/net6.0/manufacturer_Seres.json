@@ -1,0 +1,35 @@
+﻿{
+  "Make": "Seres",
+  "Models": [
+    {
+      "Model": "Aito M5",
+      "Generations": [
+        "2024—2024 I"
+      ]
+    },
+    {
+      "Model": "Aito M7",
+      "Generations": [
+        "2024—2024 I"
+      ]
+    },
+    {
+      "Model": "M5",
+      "Generations": [
+        "2024—2024 I"
+      ]
+    },
+    {
+      "Model": "M7",
+      "Generations": [
+        "2024—2024 I"
+      ]
+    },
+    {
+      "Model": "SF5",
+      "Generations": [
+        "2019—2024 I"
+      ]
+    }
+  ]
+}

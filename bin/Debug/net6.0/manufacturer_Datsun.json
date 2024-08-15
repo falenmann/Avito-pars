@@ -1,0 +1,73 @@
+﻿{
+  "Make": "Datsun",
+  "Models": [
+    {
+      "Model": "100A/120A",
+      "Generations": [
+        "1974—1978 II",
+        "1970—1974 I"
+      ]
+    },
+    {
+      "Model": "1200",
+      "Generations": [
+        "1970—1973 II"
+      ]
+    },
+    {
+      "Model": "120Y",
+      "Generations": [
+        "1977—1983 I"
+      ]
+    },
+    {
+      "Model": "220C",
+      "Generations": [
+        "1975—1979 IV"
+      ]
+    },
+    {
+      "Model": "620",
+      "Generations": [
+        "1972—1979 I"
+      ]
+    },
+    {
+      "Model": "720",
+      "Generations": [
+        "1980—1986 I"
+      ]
+    },
+    {
+      "Model": "Cherry",
+      "Generations": [
+        "1978—1983 N10"
+      ]
+    },
+    {
+      "Model": "Sunny",
+      "Generations": [
+        "1973—1983 I"
+      ]
+    },
+    {
+      "Model": "Violet",
+      "Generations": [
+        "1973—1979 710"
+      ]
+    },
+    {
+      "Model": "mi-DO",
+      "Generations": [
+        "2015—2020 I"
+      ]
+    },
+    {
+      "Model": "on-DO",
+      "Generations": [
+        "2019—2020 I рестайлинг",
+        "2014—2019 I"
+      ]
+    }
+  ]
+}

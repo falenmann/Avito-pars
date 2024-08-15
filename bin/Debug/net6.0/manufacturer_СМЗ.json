@@ -1,0 +1,23 @@
+﻿{
+  "Make": "СМЗ",
+  "Models": [
+    {
+      "Model": "С-1Л",
+      "Generations": [
+        "1952—1958 I"
+      ]
+    },
+    {
+      "Model": "С-3А",
+      "Generations": [
+        "1958—1970 I"
+      ]
+    },
+    {
+      "Model": "С-3Д",
+      "Generations": [
+        "1970—1997 I"
+      ]
+    }
+  ]
+}

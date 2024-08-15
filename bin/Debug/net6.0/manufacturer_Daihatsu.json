@@ -1,0 +1,376 @@
+﻿{
+  "Make": "Daihatsu",
+  "Models": [
+    {
+      "Model": "Altis",
+      "Generations": [
+        "2017—2021 V",
+        "2014—2017 IV рестайлинг",
+        "2012—2014 IV",
+        "2009—2010 III рестайлинг",
+        "2006—2009 III",
+        "2004—2005 II рестайлинг",
+        "2001—2004 II",
+        "2000—2001 I"
+      ]
+    },
+    {
+      "Model": "Applause",
+      "Generations": [
+        "1997—2000 I рестайлинг",
+        "1989—1997 I"
+      ]
+    },
+    {
+      "Model": "Atrai",
+      "Generations": [
+        "2021—2024 S700W/S710W",
+        "2017—2018 II рестайлинг 2",
+        "2007—2017 II рестайлинг",
+        "2005—2007 II",
+        "1981—2005 I"
+      ]
+    },
+    {
+      "Model": "Atrai 7",
+      "Generations": [
+        "2000—2004 I"
+      ]
+    },
+    {
+      "Model": "Be-go",
+      "Generations": [
+        "2006—2018 I"
+      ]
+    },
+    {
+      "Model": "Boon",
+      "Generations": [
+        "2018—2023 III рестайлинг",
+        "2016—2018 III",
+        "2014—2016 II рестайлинг",
+        "2010—2014 II",
+        "2004—2010 I"
+      ]
+    },
+    {
+      "Model": "Boon Luminas",
+      "Generations": [
+        "2008—2012 I"
+      ]
+    },
+    {
+      "Model": "Cast",
+      "Generations": [
+        "2015—2023 I"
+      ]
+    },
+    {
+      "Model": "Charade",
+      "Generations": [
+        "1996—2000 G200 рестайлинг",
+        "1993—2000 G200",
+        "1987—1992 G102",
+        "1983—1987 G11",
+        "1977—1983 G20"
+      ]
+    },
+    {
+      "Model": "Charmant",
+      "Generations": [
+        "1981—1987 I"
+      ]
+    },
+    {
+      "Model": "Coo",
+      "Generations": [
+        "2006—2013 I"
+      ]
+    },
+    {
+      "Model": "Copen",
+      "Generations": [
+        "2014—2024 II",
+        "2002—2012 I"
+      ]
+    },
+    {
+      "Model": "Cuore",
+      "Generations": [
+        "2007—2013 L276",
+        "2003—2007 L251",
+        "1999—2003 L700",
+        "1995—1999 L500",
+        "1990—1995 L200",
+        "1985—1990 L70",
+        "1980—1985 L55"
+      ]
+    },
+    {
+      "Model": "Delta",
+      "Generations": [
+        "1996—2001 III",
+        "1982—1996 II"
+      ]
+    },
+    {
+      "Model": "Esse",
+      "Generations": [
+        "2005—2011 I"
+      ]
+    },
+    {
+      "Model": "Feroza",
+      "Generations": [
+        "1989—1999 I"
+      ]
+    },
+    {
+      "Model": "Gran Max",
+      "Generations": [
+        "2007—2024 I"
+      ]
+    },
+    {
+      "Model": "Gran Move",
+      "Generations": [
+        "1996—2002 I"
+      ]
+    },
+    {
+      "Model": "Hijet",
+      "Generations": [
+        "2004—2021 X",
+        "1999—2004 IX",
+        "1990—1998 VIII",
+        "1986—1994 VII"
+      ]
+    },
+    {
+      "Model": "Hijet Caddie",
+      "Generations": [
+        "2016—2021 I"
+      ]
+    },
+    {
+      "Model": "Hijet Truck",
+      "Generations": [
+        "2014—2021 X",
+        "2004—2014 IX рестайлинг",
+        "1999—2004 IX",
+        "1991—1998 VIII"
+      ]
+    },
+    {
+      "Model": "Leeza",
+      "Generations": [
+        "1986—1993 I"
+      ]
+    },
+    {
+      "Model": "MAX",
+      "Generations": [
+        "2003—2005 I рестайлинг",
+        "2000—2003 I"
+      ]
+    },
+    {
+      "Model": "Materia",
+      "Generations": [
+        "2006—2013 I"
+      ]
+    },
+    {
+      "Model": "Mebius",
+      "Generations": [
+        "2014—2021 I рестайлинг",
+        "2013—2014 I"
+      ]
+    },
+    {
+      "Model": "Mira",
+      "Generations": [
+        "2006—2018 L275",
+        "2002—2006 L250",
+        "1998—2002 L700",
+        "1994—1998 L500"
+      ]
+    },
+    {
+      "Model": "Mira Cocoa",
+      "Generations": [
+        "2014—2018 I рестайлинг",
+        "2009—2014 I"
+      ]
+    },
+    {
+      "Model": "Mira Gino",
+      "Generations": [
+        "2004—2008 II",
+        "1998—2004 I"
+      ]
+    },
+    {
+      "Model": "Mira Tocot",
+      "Generations": [
+        "2018—2024 I"
+      ]
+    },
+    {
+      "Model": "Mira e:S",
+      "Generations": [
+        "2017—2024 II",
+        "2013—2017 I рестайлинг",
+        "2011—2013 I"
+      ]
+    },
+    {
+      "Model": "Move",
+      "Generations": [
+        "2014—2023 VI рестайлинг",
+        "2014—2017 VI",
+        "2012—2014 V рестайлинг",
+        "2010—2014 V",
+        "2008—2010 IV рестайлинг",
+        "2006—2010 IV",
+        "2004—2006 III рестайлинг",
+        "2002—2004 III",
+        "2000—2002 II рестайлинг",
+        "1998—2002 II",
+        "1995—1998 I"
+      ]
+    },
+    {
+      "Model": "Move Canbus",
+      "Generations": [
+        "2016—2022 I"
+      ]
+    },
+    {
+      "Model": "Move Conte",
+      "Generations": [
+        "2011—2017 I рестайлинг",
+        "2008—2011 I"
+      ]
+    },
+    {
+      "Model": "Naked",
+      "Generations": [
+        "2000—2004 I"
+      ]
+    },
+    {
+      "Model": "Opti",
+      "Generations": [
+        "1998—2002 II",
+        "1992—1998 I"
+      ]
+    },
+    {
+      "Model": "Pyzar",
+      "Generations": [
+        "1998—2002 I рестайлинг",
+        "1996—1998 I"
+      ]
+    },
+    {
+      "Model": "Rocky",
+      "Generations": [
+        "2019—2024 II",
+        "1985—1998 I"
+      ]
+    },
+    {
+      "Model": "Sirion",
+      "Generations": [
+        "2007—2013 M3 рестайлинг",
+        "2005—2007 M3",
+        "1998—2004 M1"
+      ]
+    },
+    {
+      "Model": "Sonica",
+      "Generations": [
+        "2006—2009 I"
+      ]
+    },
+    {
+      "Model": "Storia",
+      "Generations": [
+        "1998—2004 I"
+      ]
+    },
+    {
+      "Model": "Taft",
+      "Generations": [
+        "2020—2024 II",
+        "1974—1984 I"
+      ]
+    },
+    {
+      "Model": "Tanto",
+      "Generations": [
+        "2019—2024 IV",
+        "2015—2019 III рестайлинг",
+        "2013—2015 III",
+        "2007—2013 II",
+        "2003—2007 I"
+      ]
+    },
+    {
+      "Model": "Tanto Exe",
+      "Generations": [
+        "2011—2014 I рестайлинг",
+        "2009—2011 I"
+      ]
+    },
+    {
+      "Model": "Terios",
+      "Generations": [
+        "2009—2018 J200 рестайлинг",
+        "2006—2009 J200",
+        "1997—2006 J100"
+      ]
+    },
+    {
+      "Model": "Terios Kid",
+      "Generations": [
+        "2006—2012 I рестайлинг 2",
+        "2000—2006 I рестайлинг",
+        "1998—2000 I"
+      ]
+    },
+    {
+      "Model": "Thor",
+      "Generations": [
+        "2020—2024 I рестайлинг",
+        "2016—2020 I"
+      ]
+    },
+    {
+      "Model": "Trevis",
+      "Generations": [
+        "2006—2011 I"
+      ]
+    },
+    {
+      "Model": "Wake",
+      "Generations": [
+        "2014—2020 I"
+      ]
+    },
+    {
+      "Model": "Wildcat",
+      "Generations": [
+        "1985—1987 I"
+      ]
+    },
+    {
+      "Model": "YRV",
+      "Generations": [
+        "2002—2005 M2 рестайлинг",
+        "2000—2002 M2"
+      ]
+    }
+  ]
+}

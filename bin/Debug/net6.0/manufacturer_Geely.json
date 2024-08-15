@@ -1,0 +1,305 @@
+﻿{
+  "Make": "Geely",
+  "Models": [
+    {
+      "Model": "Atlas",
+      "Generations": [
+        "2023—2024 II",
+        "2016—2022 I"
+      ]
+    },
+    {
+      "Model": "Atlas Pro",
+      "Generations": [
+        "2019—2024 I"
+      ]
+    },
+    {
+      "Model": "Azkarra",
+      "Generations": [
+        "2019—2024 I"
+      ]
+    },
+    {
+      "Model": "Binrui",
+      "Generations": [
+        "2018—2020 I"
+      ]
+    },
+    {
+      "Model": "Binrui Cool",
+      "Generations": [
+        "2022—2024 I"
+      ]
+    },
+    {
+      "Model": "Binyue",
+      "Generations": [
+        "2023—2024 I рестайлинг 2",
+        "2021—2024 I рестайлинг"
+      ]
+    },
+    {
+      "Model": "Binyue Cool",
+      "Generations": [
+        "2022—2024 I"
+      ]
+    },
+    {
+      "Model": "Boyue Cool",
+      "Generations": [
+        "2023—2024 I"
+      ]
+    },
+    {
+      "Model": "Boyue L",
+      "Generations": [
+        "2022—2024 I"
+      ]
+    },
+    {
+      "Model": "CK (Otaka)",
+      "Generations": [
+        "2008—2016 I рестайлинг",
+        "2005—2008 I"
+      ]
+    },
+    {
+      "Model": "Coolray",
+      "Generations": [
+        "2023—2024 I рестайлинг",
+        "2019—2024 I"
+      ]
+    },
+    {
+      "Model": "Emgrand",
+      "Generations": [
+        "2021—2024 I"
+      ]
+    },
+    {
+      "Model": "Emgrand 7",
+      "Generations": [
+        "2018—2020 I рестайлинг",
+        "2016—2018 I"
+      ]
+    },
+    {
+      "Model": "Emgrand EC7",
+      "Generations": [
+        "2009—2016 I"
+      ]
+    },
+    {
+      "Model": "Emgrand EC8",
+      "Generations": [
+        "2012—2015 I"
+      ]
+    },
+    {
+      "Model": "Emgrand EV",
+      "Generations": [
+        "2016—2023 I"
+      ]
+    },
+    {
+      "Model": "Emgrand GT",
+      "Generations": [
+        "2015—2020 I"
+      ]
+    },
+    {
+      "Model": "Emgrand L",
+      "Generations": [
+        "2022—2024 I"
+      ]
+    },
+    {
+      "Model": "Emgrand X7",
+      "Generations": [
+        "2018—2024 I рестайлинг 2",
+        "2016—2019 I рестайлинг",
+        "2011—2016 I"
+      ]
+    },
+    {
+      "Model": "FC (Vision)",
+      "Generations": [
+        "2006—2011 I"
+      ]
+    },
+    {
+      "Model": "Farizon FX",
+      "Generations": [
+        "2020—2023 I"
+      ]
+    },
+    {
+      "Model": "GC6",
+      "Generations": [
+        "2014—2016 I"
+      ]
+    },
+    {
+      "Model": "GS",
+      "Generations": [
+        "2016—2024 I"
+      ]
+    },
+    {
+      "Model": "Galaxy E8",
+      "Generations": [
+        "2024—2024 I"
+      ]
+    },
+    {
+      "Model": "Galaxy L6",
+      "Generations": [
+        "2023—2024 I"
+      ]
+    },
+    {
+      "Model": "Galaxy L7",
+      "Generations": [
+        "2023—2024 I"
+      ]
+    },
+    {
+      "Model": "Geometry A",
+      "Generations": [
+        "2019—2024 I"
+      ]
+    },
+    {
+      "Model": "Geometry C",
+      "Generations": [
+        "2020—2024 I"
+      ]
+    },
+    {
+      "Model": "Geometry E",
+      "Generations": [
+        "2022—2024 I"
+      ]
+    },
+    {
+      "Model": "Geometry G6",
+      "Generations": [
+        "2022—2024 I"
+      ]
+    },
+    {
+      "Model": "Haoyue L",
+      "Generations": [
+        "2022—2024 I"
+      ]
+    },
+    {
+      "Model": "Icon",
+      "Generations": [
+        "2019—2024 I"
+      ]
+    },
+    {
+      "Model": "Jiaji",
+      "Generations": [
+        "2022—2024 I рестайлинг",
+        "2019—2022 I"
+      ]
+    },
+    {
+      "Model": "LC (GC2)",
+      "Generations": [
+        "2008—2016 I"
+      ]
+    },
+    {
+      "Model": "MK",
+      "Generations": [
+        "2013—2015 I рестайлинг",
+        "2006—2013 I"
+      ]
+    },
+    {
+      "Model": "MK Cross",
+      "Generations": [
+        "2010—2016 I"
+      ]
+    },
+    {
+      "Model": "Maple SL",
+      "Generations": [
+        "2011—2015 I"
+      ]
+    },
+    {
+      "Model": "Monjaro",
+      "Generations": [
+        "2021—2024 I"
+      ]
+    },
+    {
+      "Model": "Okavango",
+      "Generations": [
+        "2023—2024 I рестайлинг",
+        "2020—2024 I"
+      ]
+    },
+    {
+      "Model": "Panda",
+      "Generations": [
+        "2022—2024 I"
+      ]
+    },
+    {
+      "Model": "Preface",
+      "Generations": [
+        "2022—2024 I рестайлинг",
+        "2020—2022 I"
+      ]
+    },
+    {
+      "Model": "SC7",
+      "Generations": [
+        "2011—2015 I"
+      ]
+    },
+    {
+      "Model": "Tugella",
+      "Generations": [
+        "2022—2024 I рестайлинг",
+        "2019—2023 I"
+      ]
+    },
+    {
+      "Model": "Vision X3 Pro",
+      "Generations": [
+        "2017—2024 I"
+      ]
+    },
+    {
+      "Model": "Vision X6",
+      "Generations": [
+        "2019—2021 II рестайлинг 2"
+      ]
+    },
+    {
+      "Model": "Vision X6 Pro",
+      "Generations": [
+        "2021—2024 I"
+      ]
+    },
+    {
+      "Model": "Xingyue L",
+      "Generations": [
+        "2021—2024 I"
+      ]
+    },
+    {
+      "Model": "Xingyue S",
+      "Generations": [
+        "2021—2024 I"
+      ]
+    }
+  ]
+}

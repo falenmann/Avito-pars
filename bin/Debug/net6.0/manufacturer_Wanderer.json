@@ -1,0 +1,23 @@
+﻿{
+  "Make": "Wanderer",
+  "Models": [
+    {
+      "Model": "W22",
+      "Generations": [
+        "1933—1936 I"
+      ]
+    },
+    {
+      "Model": "W24",
+      "Generations": [
+        "1937—1940 I"
+      ]
+    },
+    {
+      "Model": "W40",
+      "Generations": [
+        "1933—1938 I"
+      ]
+    }
+  ]
+}

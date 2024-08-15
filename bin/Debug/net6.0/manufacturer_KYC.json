@@ -1,0 +1,23 @@
+﻿{
+  "Make": "KYC",
+  "Models": [
+    {
+      "Model": "D5",
+      "Generations": [
+        "2021—2024 I"
+      ]
+    },
+    {
+      "Model": "T3",
+      "Generations": [
+        "2021—2024 I"
+      ]
+    },
+    {
+      "Model": "V3",
+      "Generations": [
+        "2020—2024 I"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+﻿{
+  "Make": "Alfa Romeo",
+  "Models": [
+    {
+      "Model": "145",
+      "Generations": [
+        "1999—2001 I рестайлинг",
+        "1994—1999 I"
+      ]
+    },
+    {
+      "Model": "146",
+      "Generations": [
+        "1994—2001 I"
+      ]
+    },
+    {
+      "Model": "147",
+      "Generations": [
+        "2004—2010 I рестайлинг",
+        "2000—2004 I"
+      ]
+    },
+    {
+      "Model": "155",
+      "Generations": [
+        "1995—1997 I рестайлинг",
+        "1992—1995 I"
+      ]
+    },
+    {
+      "Model": "156",
+      "Generations": [
+        "2003—2007 I рестайлинг 2",
+        "2002—2003 I рестайлинг",
+        "1997—2002 I"
+      ]
+    },
+    {
+      "Model": "159",
+      "Generations": [
+        "2005—2011 I"
+      ]
+    },
+    {
+      "Model": "164",
+      "Generations": [
+        "1992—1998 I рестайлинг",
+        "1987—1992 I"
+      ]
+    },
+    {
+      "Model": "166",
+      "Generations": [
+        "2003—2007 I рестайлинг",
+        "1998—2003 I"
+      ]
+    },
+    {
+      "Model": "33",
+      "Generations": [
+        "1990—1994 II",
+        "1986—1989 I рестайлинг",
+        "1983—1986 I"
+      ]
+    },
+    {
+      "Model": "4C",
+      "Generations": [
+        "2013—2016 I"
+      ]
+    },
+    {
+      "Model": "6",
+      "Generations": [
+        "1979—1988 I"
+      ]
+    },
+    {
+      "Model": "6C",
+      "Generations": [
+        "1925—1954 I"
+      ]
+    },
+    {
+      "Model": "75",
+      "Generations": [
+        "1988—1992 I рестайлинг",
+        "1985—1992 I"
+      ]
+    },
+    {
+      "Model": "8C Competizione",
+      "Generations": [
+        "2007—2011 I"
+      ]
+    },
+    {
+      "Model": "Brera",
+      "Generations": [
+        "2006—2010 I"
+      ]
+    },
+    {
+      "Model": "GT",
+      "Generations": [
+        "2003—2010 I"
+      ]
+    },
+    {
+      "Model": "GTV",
+      "Generations": [
+        "1995—2006 I"
+      ]
+    },
+    {
+      "Model": "Giulia",
+      "Generations": [
+        "2016—2024 952",
+        "1962—1978 105"
+      ]
+    },
+    {
+      "Model": "Giulietta",
+      "Generations": [
+        "2016—2020 III рестайлинг",
+        "2010—2016 III",
+        "1977—1985 II",
+        "1954—1963 I"
+      ]
+    },
+    {
+      "Model": "Junior",
+      "Generations": [
+        "2024—2024 I"
+      ]
+    },
+    {
+      "Model": "MiTo",
+      "Generations": [
+        "2016—2018 I рестайлинг 2",
+        "2013—2016 I рестайлинг",
+        "2008—2013 I"
+      ]
+    },
+    {
+      "Model": "SZ",
+      "Generations": [
+        "1988—1994 I"
+      ]
+    },
+    {
+      "Model": "Spider",
+      "Generations": [
+        "2006—2010 III",
+        "1995—2005 II",
+        "1966—1993 I"
+      ]
+    },
+    {
+      "Model": "Sprint",
+      "Generations": [
+        "1983—1989 I"
+      ]
+    },
+    {
+      "Model": "Stelvio",
+      "Generations": [
+        "2017—2024 I"
+      ]
+    },
+    {
+      "Model": "Tonale",
+      "Generations": [
+        "2022—2024 I"
+      ]
+    }
+  ]
+}

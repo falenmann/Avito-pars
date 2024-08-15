@@ -1,0 +1,81 @@
+﻿{
+  "Make": "Dacia",
+  "Models": [
+    {
+      "Model": "1310",
+      "Generations": [
+        "1979—2004 I"
+      ]
+    },
+    {
+      "Model": "Dokker",
+      "Generations": [
+        "2017—2021 I рестайлинг"
+      ]
+    },
+    {
+      "Model": "Dokker Stepway",
+      "Generations": [
+        "2017—2021 I рестайлинг",
+        "2012—2017 I"
+      ]
+    },
+    {
+      "Model": "Duster",
+      "Generations": [
+        "2021—2024 II рестайлинг",
+        "2017—2021 II",
+        "2013—2017 I рестайлинг",
+        "2010—2013 I"
+      ]
+    },
+    {
+      "Model": "Lodgy",
+      "Generations": [
+        "2017—2022 I рестайлинг",
+        "2012—2017 I"
+      ]
+    },
+    {
+      "Model": "Logan",
+      "Generations": [
+        "2016—2020 II рестайлинг",
+        "2012—2016 II",
+        "2004—2012 I"
+      ]
+    },
+    {
+      "Model": "Nova",
+      "Generations": [
+        "1995—2000 I"
+      ]
+    },
+    {
+      "Model": "Sandero",
+      "Generations": [
+        "2020—2024 III",
+        "2016—2020 II рестайлинг",
+        "2012—2016 II",
+        "2008—2012 I"
+      ]
+    },
+    {
+      "Model": "Solenza",
+      "Generations": [
+        "2003—2005 I"
+      ]
+    },
+    {
+      "Model": "Spring",
+      "Generations": [
+        "2021—2024 I"
+      ]
+    },
+    {
+      "Model": "Super Nova",
+      "Generations": [
+        "2000—2003 I"
+      ]
+    }
+  ]
+}

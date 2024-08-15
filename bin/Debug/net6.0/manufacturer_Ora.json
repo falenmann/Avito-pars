@@ -1,0 +1,35 @@
+﻿{
+  "Make": "Ora",
+  "Models": [
+    {
+      "Model": "03",
+      "Generations": [
+        "2023—2024 I"
+      ]
+    },
+    {
+      "Model": "03 GT",
+      "Generations": [
+        "2023—2024 I"
+      ]
+    },
+    {
+      "Model": "Ballet Cat",
+      "Generations": [
+        "2022—2024 I"
+      ]
+    },
+    {
+      "Model": "Good Cat",
+      "Generations": [
+        "2020—2024 I"
+      ]
+    },
+    {
+      "Model": "Lightning Cat",
+      "Generations": [
+        "2021—2024 I"
+      ]
+    }
+  ]
+}

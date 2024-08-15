@@ -1,0 +1,17 @@
+﻿{
+  "Make": "LDV",
+  "Models": [
+    {
+      "Model": "Convoy",
+      "Generations": [
+        "1992—2006 I"
+      ]
+    },
+    {
+      "Model": "Maxus",
+      "Generations": [
+        "2006—2011 I"
+      ]
+    }
+  ]
+}

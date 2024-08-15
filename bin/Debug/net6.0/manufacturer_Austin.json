@@ -1,0 +1,23 @@
+﻿{
+  "Make": "Austin",
+  "Models": [
+    {
+      "Model": "FX4",
+      "Generations": [
+        "1958—1984 I"
+      ]
+    },
+    {
+      "Model": "Mini",
+      "Generations": [
+        "1967—1993 I"
+      ]
+    },
+    {
+      "Model": "Montego",
+      "Generations": [
+        "1984—1995 I"
+      ]
+    }
+  ]
+}

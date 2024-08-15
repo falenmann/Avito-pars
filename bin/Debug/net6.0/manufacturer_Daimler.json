@@ -1,0 +1,35 @@
+﻿{
+  "Make": "Daimler",
+  "Models": [
+    {
+      "Model": "Limousine",
+      "Generations": [
+        "1968—1992 DS420"
+      ]
+    },
+    {
+      "Model": "Regency",
+      "Generations": [
+        "1951—1958 I"
+      ]
+    },
+    {
+      "Model": "Super Eight",
+      "Generations": [
+        "2005—2007 I"
+      ]
+    },
+    {
+      "Model": "X308",
+      "Generations": [
+        "1997—2003 I"
+      ]
+    },
+    {
+      "Model": "XJ",
+      "Generations": [
+        "1986—1994 I"
+      ]
+    }
+  ]
+}

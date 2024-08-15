@@ -1,0 +1,140 @@
+﻿{
+  "Make": "SsangYong",
+  "Models": [
+    {
+      "Model": "Actyon",
+      "Generations": [
+        "2013—2021 II рестайлинг",
+        "2010—2013 II",
+        "2005—2011 I"
+      ]
+    },
+    {
+      "Model": "Actyon Sports",
+      "Generations": [
+        "2012—2016 I рестайлинг",
+        "2006—2012 I"
+      ]
+    },
+    {
+      "Model": "Chairman",
+      "Generations": [
+        "2008—2017 W",
+        "1997—2014 H"
+      ]
+    },
+    {
+      "Model": "Istana",
+      "Generations": [
+        "1995—2003 I"
+      ]
+    },
+    {
+      "Model": "Korando",
+      "Generations": [
+        "2019—2024 IV",
+        "2017—2019 III рестайлинг 2",
+        "2013—2018 III рестайлинг",
+        "2010—2013 III",
+        "1996—2006 II",
+        "1988—1996 I"
+      ]
+    },
+    {
+      "Model": "Korando Family",
+      "Generations": [
+        "1987—1998 I"
+      ]
+    },
+    {
+      "Model": "Korando Sports",
+      "Generations": [
+        "2011—2017 I"
+      ]
+    },
+    {
+      "Model": "Korando Turismo",
+      "Generations": [
+        "2018—2024 I рестайлинг",
+        "2013—2018 I"
+      ]
+    },
+    {
+      "Model": "Kyron",
+      "Generations": [
+        "2007—2015 I рестайлинг",
+        "2005—2007 I"
+      ]
+    },
+    {
+      "Model": "Musso",
+      "Generations": [
+        "1998—2006 I рестайлинг",
+        "1993—1998 I"
+      ]
+    },
+    {
+      "Model": "Nomad",
+      "Generations": [
+        "2013—2017 I"
+      ]
+    },
+    {
+      "Model": "Rexton",
+      "Generations": [
+        "2020—2023 IV рестайлинг",
+        "2017—2021 IV",
+        "2012—2017 III",
+        "2006—2012 II",
+        "2001—2009 I"
+      ]
+    },
+    {
+      "Model": "Rexton Sports",
+      "Generations": [
+        "2021—2023 I рестайлинг",
+        "2018—2021 I"
+      ]
+    },
+    {
+      "Model": "Rexton Sports Khan",
+      "Generations": [
+        "2021—2023 I рестайлинг",
+        "2018—2021 I"
+      ]
+    },
+    {
+      "Model": "Rodius",
+      "Generations": [
+        "2013—2019 II",
+        "2007—2013 I рестайлинг",
+        "2004—2007 I"
+      ]
+    },
+    {
+      "Model": "Stavic",
+      "Generations": [
+        "2013—2018 I"
+      ]
+    },
+    {
+      "Model": "Tivoli",
+      "Generations": [
+        "2019—2023 I рестайлинг",
+        "2015—2019 I"
+      ]
+    },
+    {
+      "Model": "Tivoli XLV",
+      "Generations": [
+        "2016—2024 I"
+      ]
+    },
+    {
+      "Model": "Torres",
+      "Generations": [
+        "2022—2024 I"
+      ]
+    }
+  ]
+}

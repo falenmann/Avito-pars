@@ -1,0 +1,67 @@
+﻿{
+  "Make": "Lotus",
+  "Models": [
+    {
+      "Model": "Eletre",
+      "Generations": [
+        "2022—2024 I"
+      ]
+    },
+    {
+      "Model": "Elise",
+      "Generations": [
+        "2010—2021 II рестайлинг",
+        "2000—2010 II",
+        "1995—2000 I"
+      ]
+    },
+    {
+      "Model": "Emeya",
+      "Generations": [
+        "2023—2024 I"
+      ]
+    },
+    {
+      "Model": "Emira",
+      "Generations": [
+        "2021—2024 I"
+      ]
+    },
+    {
+      "Model": "Esprit",
+      "Generations": [
+        "1993—2004 V",
+        "1987—1993 IV",
+        "1981—1987 III",
+        "1978—1981 II",
+        "1976—1979 I"
+      ]
+    },
+    {
+      "Model": "Europa S",
+      "Generations": [
+        "2006—2010 I"
+      ]
+    },
+    {
+      "Model": "Evija",
+      "Generations": [
+        "2019—2021 I"
+      ]
+    },
+    {
+      "Model": "Evora",
+      "Generations": [
+        "2009—2021 I"
+      ]
+    },
+    {
+      "Model": "Exige",
+      "Generations": [
+        "2011—2024 III",
+        "2004—2011 II",
+        "2001—2004 I"
+      ]
+    }
+  ]
+}

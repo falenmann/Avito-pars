@@ -1,0 +1,35 @@
+﻿{
+  "Make": "Microcar",
+  "Models": [
+    {
+      "Model": "F8C",
+      "Generations": [
+        "2012—2015 I"
+      ]
+    },
+    {
+      "Model": "M.Go",
+      "Generations": [
+        "2009—2024 I"
+      ]
+    },
+    {
+      "Model": "M8",
+      "Generations": [
+        "2012—2015 I"
+      ]
+    },
+    {
+      "Model": "MC",
+      "Generations": [
+        "2004—2009 I"
+      ]
+    },
+    {
+      "Model": "Virgo",
+      "Generations": [
+        "1999—2003 I"
+      ]
+    }
+  ]
+}

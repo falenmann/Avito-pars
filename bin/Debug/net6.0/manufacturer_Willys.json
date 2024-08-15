@@ -1,0 +1,23 @@
+﻿{
+  "Make": "Willys",
+  "Models": [
+    {
+      "Model": "CJ",
+      "Generations": [
+        "1944—1968 I"
+      ]
+    },
+    {
+      "Model": "Jeepster",
+      "Generations": [
+        "1948—1951 I"
+      ]
+    },
+    {
+      "Model": "MB",
+      "Generations": [
+        "1941—1945 I"
+      ]
+    }
+  ]
+}

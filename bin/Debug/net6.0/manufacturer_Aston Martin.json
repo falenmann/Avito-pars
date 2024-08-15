@@ -1,0 +1,94 @@
+﻿{
+  "Make": "Aston Martin",
+  "Models": [
+    {
+      "Model": "DB11",
+      "Generations": [
+        "2016—2024 I"
+      ]
+    },
+    {
+      "Model": "DB12",
+      "Generations": [
+        "2023—2024 I"
+      ]
+    },
+    {
+      "Model": "DB7",
+      "Generations": [
+        "1999—2003 I рестайлинг",
+        "1994—1999 I"
+      ]
+    },
+    {
+      "Model": "DB9",
+      "Generations": [
+        "2012—2016 I рестайлинг 2",
+        "2008—2013 I рестайлинг",
+        "2003—2008 I"
+      ]
+    },
+    {
+      "Model": "DBS",
+      "Generations": [
+        "2018—2024 III",
+        "2007—2012 II",
+        "1967—1972 I"
+      ]
+    },
+    {
+      "Model": "DBX",
+      "Generations": [
+        "2019—2024 I"
+      ]
+    },
+    {
+      "Model": "One-77",
+      "Generations": [
+        "2009—2012 I"
+      ]
+    },
+    {
+      "Model": "Rapide",
+      "Generations": [
+        "2010—2013 I"
+      ]
+    },
+    {
+      "Model": "Rapide S",
+      "Generations": [
+        "2013—2018 I"
+      ]
+    },
+    {
+      "Model": "V12 Vantage",
+      "Generations": [
+        "2020—2024 II"
+      ]
+    },
+    {
+      "Model": "V8 Vantage",
+      "Generations": [
+        "2017—2024 IV",
+        "2008—2017 III рестайлинг",
+        "2005—2008 III",
+        "1993—2000 II",
+        "1969—1989 I"
+      ]
+    },
+    {
+      "Model": "Vanquish",
+      "Generations": [
+        "2012—2018 II",
+        "2001—2007 I"
+      ]
+    },
+    {
+      "Model": "Virage",
+      "Generations": [
+        "2011—2012 II",
+        "1988—2000 I"
+      ]
+    }
+  ]
+}

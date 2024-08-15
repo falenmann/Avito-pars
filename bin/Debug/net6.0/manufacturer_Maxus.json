@@ -1,0 +1,41 @@
+﻿{
+  "Make": "Maxus",
+  "Models": [
+    {
+      "Model": "D90 Pro",
+      "Generations": [
+        "2020—2024 I"
+      ]
+    },
+    {
+      "Model": "G20",
+      "Generations": [
+        "2019—2024 I"
+      ]
+    },
+    {
+      "Model": "G50",
+      "Generations": [
+        "2018—2024 I"
+      ]
+    },
+    {
+      "Model": "G90",
+      "Generations": [
+        "2022—2024 I"
+      ]
+    },
+    {
+      "Model": "T90",
+      "Generations": [
+        "2021—2024 I"
+      ]
+    },
+    {
+      "Model": "Territory",
+      "Generations": [
+        "2022—2024 I"
+      ]
+    }
+  ]
+}

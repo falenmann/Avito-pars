@@ -1,0 +1,22 @@
+C:\Users\vadim\Documents\VKR\PROGRAMMA\Avito pars\Avito pars\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\vadim\Documents\VKR\PROGRAMMA\Avito pars\Avito pars\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\vadim\Documents\VKR\PROGRAMMA\Avito pars\Avito pars\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\vadim\Documents\VKR\PROGRAMMA\Avito pars\Avito pars\bin\Debug\net6.0\Avito pars.exe
+C:\Users\vadim\Documents\VKR\PROGRAMMA\Avito pars\Avito pars\bin\Debug\net6.0\Avito pars.deps.json
+C:\Users\vadim\Documents\VKR\PROGRAMMA\Avito pars\Avito pars\bin\Debug\net6.0\Avito pars.runtimeconfig.json
+C:\Users\vadim\Documents\VKR\PROGRAMMA\Avito pars\Avito pars\bin\Debug\net6.0\Avito pars.dll
+C:\Users\vadim\Documents\VKR\PROGRAMMA\Avito pars\Avito pars\bin\Debug\net6.0\Avito pars.pdb
+C:\Users\vadim\Documents\VKR\PROGRAMMA\Avito pars\Avito pars\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\vadim\Documents\VKR\PROGRAMMA\Avito pars\Avito pars\bin\Debug\net6.0\WebDriver.dll
+C:\Users\vadim\Documents\VKR\PROGRAMMA\Avito pars\Avito pars\obj\Debug\net6.0\Avito pars.csproj.AssemblyReference.cache
+C:\Users\vadim\Documents\VKR\PROGRAMMA\Avito pars\Avito pars\obj\Debug\net6.0\Avito pars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vadim\Documents\VKR\PROGRAMMA\Avito pars\Avito pars\obj\Debug\net6.0\Avito pars.AssemblyInfoInputs.cache
+C:\Users\vadim\Documents\VKR\PROGRAMMA\Avito pars\Avito pars\obj\Debug\net6.0\Avito pars.AssemblyInfo.cs
+C:\Users\vadim\Documents\VKR\PROGRAMMA\Avito pars\Avito pars\obj\Debug\net6.0\Avito pars.csproj.CoreCompileInputs.cache
+C:\Users\vadim\Documents\VKR\PROGRAMMA\Avito pars\Avito pars\obj\Debug\net6.0\Avito pars.csproj.CopyComplete
+C:\Users\vadim\Documents\VKR\PROGRAMMA\Avito pars\Avito pars\obj\Debug\net6.0\Avito pars.dll
+C:\Users\vadim\Documents\VKR\PROGRAMMA\Avito pars\Avito pars\obj\Debug\net6.0\refint\Avito pars.dll
+C:\Users\vadim\Documents\VKR\PROGRAMMA\Avito pars\Avito pars\obj\Debug\net6.0\Avito pars.pdb
+C:\Users\vadim\Documents\VKR\PROGRAMMA\Avito pars\Avito pars\obj\Debug\net6.0\Avito pars.genruntimeconfig.cache
+C:\Users\vadim\Documents\VKR\PROGRAMMA\Avito pars\Avito pars\obj\Debug\net6.0\ref\Avito pars.dll
+C:\Users\vadim\Documents\VKR\PROGRAMMA\Avito pars\Avito pars\bin\Debug\net6.0\WebDriver.Support.dll

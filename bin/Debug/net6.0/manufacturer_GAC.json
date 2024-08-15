@@ -1,0 +1,109 @@
+﻿{
+  "Make": "GAC",
+  "Models": [
+    {
+      "Model": "Aion Hyper GT",
+      "Generations": [
+        "2023—2024 I"
+      ]
+    },
+    {
+      "Model": "Aion LX",
+      "Generations": [
+        "2019—2024 I"
+      ]
+    },
+    {
+      "Model": "Aion S",
+      "Generations": [
+        "2018—2024 I"
+      ]
+    },
+    {
+      "Model": "Aion V",
+      "Generations": [
+        "2020—2021 I"
+      ]
+    },
+    {
+      "Model": "Aion Y",
+      "Generations": [
+        "2021—2021 I"
+      ]
+    },
+    {
+      "Model": "Aion Y Plus",
+      "Generations": [
+        "2022—2024 I"
+      ]
+    },
+    {
+      "Model": "GE3",
+      "Generations": [
+        "2017—2024 I"
+      ]
+    },
+    {
+      "Model": "GM6",
+      "Generations": [
+        "2018—2020 I"
+      ]
+    },
+    {
+      "Model": "GN8",
+      "Generations": [
+        "2017—2023 I"
+      ]
+    },
+    {
+      "Model": "GS3",
+      "Generations": [
+        "2024—2024 I"
+      ]
+    },
+    {
+      "Model": "GS5",
+      "Generations": [
+        "2020—2024 I"
+      ]
+    },
+    {
+      "Model": "GS8",
+      "Generations": [
+        "2021—2024 II",
+        "2016—2023 I"
+      ]
+    },
+    {
+      "Model": "M8",
+      "Generations": [
+        "2023—2024 I"
+      ]
+    },
+    {
+      "Model": "WAY M1",
+      "Generations": [
+        "2015—2020 I"
+      ]
+    },
+    {
+      "Model": "WAY M2",
+      "Generations": [
+        "2015—2020 I"
+      ]
+    },
+    {
+      "Model": "WAY V1",
+      "Generations": [
+        "2015—2020 I"
+      ]
+    },
+    {
+      "Model": "iA5",
+      "Generations": [
+        "2022—2024 I рестайлинг",
+        "2019—2022 I"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+﻿{
+  "Make": "Asia",
+  "Models": [
+    {
+      "Model": "Hi-topic",
+      "Generations": [
+        "1987—1999 I"
+      ]
+    },
+    {
+      "Model": "Rocsta",
+      "Generations": [
+        "1989—1998 I"
+      ]
+    },
+    {
+      "Model": "Towner",
+      "Generations": [
+        "1992—1999 I"
+      ]
+    }
+  ]
+}

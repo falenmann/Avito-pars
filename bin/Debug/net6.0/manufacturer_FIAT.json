@@ -1,0 +1,326 @@
+﻿{
+  "Make": "FIAT",
+  "Models": [
+    {
+      "Model": "124",
+      "Generations": [
+        "1966—1976 I"
+      ]
+    },
+    {
+      "Model": "124 Spider",
+      "Generations": [
+        "2016—2020 I"
+      ]
+    },
+    {
+      "Model": "124 Sport Spider",
+      "Generations": [
+        "1966—1985 I"
+      ]
+    },
+    {
+      "Model": "125",
+      "Generations": [
+        "1967—1982 I"
+      ]
+    },
+    {
+      "Model": "126",
+      "Generations": [
+        "1972—1996 I"
+      ]
+    },
+    {
+      "Model": "127",
+      "Generations": [
+        "1971—1987 I"
+      ]
+    },
+    {
+      "Model": "128 Coupe",
+      "Generations": [
+        "1971—1975 I"
+      ]
+    },
+    {
+      "Model": "131",
+      "Generations": [
+        "1974—1985 I"
+      ]
+    },
+    {
+      "Model": "500",
+      "Generations": [
+        "2020—2024 III",
+        "2015—2024 II рестайлинг",
+        "2007—2015 II",
+        "1957—1975 I"
+      ]
+    },
+    {
+      "Model": "500L",
+      "Generations": [
+        "2017—2024 I рестайлинг",
+        "2012—2017 I"
+      ]
+    },
+    {
+      "Model": "500X",
+      "Generations": [
+        "2018—2024 I рестайлинг",
+        "2014—2018 I"
+      ]
+    },
+    {
+      "Model": "600e",
+      "Generations": [
+        "2023—2024 I"
+      ]
+    },
+    {
+      "Model": "Albea",
+      "Generations": [
+        "2005—2012 I рестайлинг",
+        "2002—2005 I"
+      ]
+    },
+    {
+      "Model": "Argenta",
+      "Generations": [
+        "1978—1986 I"
+      ]
+    },
+    {
+      "Model": "Barchetta",
+      "Generations": [
+        "2003—2005 I рестайлинг",
+        "1995—2003 I"
+      ]
+    },
+    {
+      "Model": "Brava",
+      "Generations": [
+        "1995—2001 I"
+      ]
+    },
+    {
+      "Model": "Bravo",
+      "Generations": [
+        "2007—2014 II",
+        "1995—2001 I"
+      ]
+    },
+    {
+      "Model": "Cinquecento",
+      "Generations": [
+        "1991—1998 I"
+      ]
+    },
+    {
+      "Model": "Coupe",
+      "Generations": [
+        "1993—2001 I"
+      ]
+    },
+    {
+      "Model": "Croma",
+      "Generations": [
+        "2008—2011 II рестайлинг",
+        "2005—2008 II",
+        "1985—1996 I"
+      ]
+    },
+    {
+      "Model": "Doblo",
+      "Generations": [
+        "2015—2024 II рестайлинг",
+        "2010—2015 II",
+        "2005—2015 I рестайлинг",
+        "2000—2005 I"
+      ]
+    },
+    {
+      "Model": "Ducato",
+      "Generations": [
+        "2014—2024 III рестайлинг",
+        "2006—2014 III",
+        "2006—2007 II рестайлинг",
+        "1994—2006 II",
+        "1981—1993 I"
+      ]
+    },
+    {
+      "Model": "Duna",
+      "Generations": [
+        "1987—1991 I"
+      ]
+    },
+    {
+      "Model": "Fiorino",
+      "Generations": [
+        "2008—2024 III",
+        "1987—2013 II",
+        "1977—1987 I"
+      ]
+    },
+    {
+      "Model": "Freemont",
+      "Generations": [
+        "2011—2016 I"
+      ]
+    },
+    {
+      "Model": "Fullback",
+      "Generations": [
+        "2015—2020 I"
+      ]
+    },
+    {
+      "Model": "Idea",
+      "Generations": [
+        "2003—2016 I"
+      ]
+    },
+    {
+      "Model": "Linea",
+      "Generations": [
+        "2013—2018 I рестайлинг",
+        "2007—2013 I"
+      ]
+    },
+    {
+      "Model": "Marea",
+      "Generations": [
+        "1996—2002 I"
+      ]
+    },
+    {
+      "Model": "Multipla",
+      "Generations": [
+        "2004—2010 I рестайлинг",
+        "1998—2005 I"
+      ]
+    },
+    {
+      "Model": "Palio",
+      "Generations": [
+        "2011—2017 II",
+        "2001—2004 I рестайлинг",
+        "1996—2001 I"
+      ]
+    },
+    {
+      "Model": "Panda",
+      "Generations": [
+        "2011—2024 III",
+        "2003—2012 II",
+        "1981—2003 I"
+      ]
+    },
+    {
+      "Model": "Punto",
+      "Generations": [
+        "2012—2018 III рестайлинг 2",
+        "2009—2012 III рестайлинг",
+        "2005—2010 III",
+        "2003—2010 II рестайлинг",
+        "1999—2003 II",
+        "1993—1999 I"
+      ]
+    },
+    {
+      "Model": "Qubo",
+      "Generations": [
+        "2016—2024 II",
+        "2008—2016 I"
+      ]
+    },
+    {
+      "Model": "Regata",
+      "Generations": [
+        "1983—1990 I"
+      ]
+    },
+    {
+      "Model": "Ritmo",
+      "Generations": [
+        "1982—1988 I рестайлинг",
+        "1978—1989 I"
+      ]
+    },
+    {
+      "Model": "Scudo",
+      "Generations": [
+        "2022—2024 III",
+        "2007—2016 II",
+        "1996—2007 I"
+      ]
+    },
+    {
+      "Model": "Sedici",
+      "Generations": [
+        "2005—2014 I"
+      ]
+    },
+    {
+      "Model": "Seicento",
+      "Generations": [
+        "2005—2010 I рестайлинг",
+        "1998—2005 I"
+      ]
+    },
+    {
+      "Model": "Siena",
+      "Generations": [
+        "1996—2012 I"
+      ]
+    },
+    {
+      "Model": "Stilo",
+      "Generations": [
+        "2001—2007 I"
+      ]
+    },
+    {
+      "Model": "Strada",
+      "Generations": [
+        "1983—1989 I"
+      ]
+    },
+    {
+      "Model": "Talento",
+      "Generations": [
+        "2016—2020 II"
+      ]
+    },
+    {
+      "Model": "Tempra",
+      "Generations": [
+        "1990—1999 I"
+      ]
+    },
+    {
+      "Model": "Tipo",
+      "Generations": [
+        "2015—2020 356",
+        "1987—1995 160"
+      ]
+    },
+    {
+      "Model": "Ulysse",
+      "Generations": [
+        "2002—2010 II",
+        "1998—2002 I рестайлинг",
+        "1994—1998 I"
+      ]
+    },
+    {
+      "Model": "Uno",
+      "Generations": [
+        "1989—2002 I рестайлинг",
+        "1983—1989 I"
+      ]
+    }
+  ]
+}

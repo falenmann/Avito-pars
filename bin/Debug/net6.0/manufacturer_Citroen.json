@@ -1,0 +1,333 @@
+﻿{
+  "Make": "Citroen",
+  "Models": [
+    {
+      "Model": "2 CV",
+      "Generations": [
+        "1963—1990 I"
+      ]
+    },
+    {
+      "Model": "AX",
+      "Generations": [
+        "1986—1998 I"
+      ]
+    },
+    {
+      "Model": "Ami EV",
+      "Generations": [
+        "2020—2024 I"
+      ]
+    },
+    {
+      "Model": "BX",
+      "Generations": [
+        "1982—1994 I"
+      ]
+    },
+    {
+      "Model": "Berlingo",
+      "Generations": [
+        "2018—2024 III",
+        "2015—2024 II рестайлинг 2",
+        "2012—2015 II рестайлинг",
+        "2008—2012 II",
+        "2002—2012 I рестайлинг",
+        "1996—2002 I"
+      ]
+    },
+    {
+      "Model": "C-Crosser",
+      "Generations": [
+        "2007—2013 I"
+      ]
+    },
+    {
+      "Model": "C-Elysee",
+      "Generations": [
+        "2016—2024 I рестайлинг",
+        "2012—2016 I"
+      ]
+    },
+    {
+      "Model": "C1",
+      "Generations": [
+        "2014—2024 II",
+        "2012—2014 I рестайлинг 2",
+        "2008—2012 I рестайлинг",
+        "2005—2008 I"
+      ]
+    },
+    {
+      "Model": "C15",
+      "Generations": [
+        "1984—2005 I"
+      ]
+    },
+    {
+      "Model": "C2",
+      "Generations": [
+        "2003—2009 I"
+      ]
+    },
+    {
+      "Model": "C25",
+      "Generations": [
+        "1981—1994 I"
+      ]
+    },
+    {
+      "Model": "C3",
+      "Generations": [
+        "2020—2024 III рестайлинг",
+        "2016—2020 III",
+        "2013—2016 II рестайлинг",
+        "2009—2013 II",
+        "2005—2009 I рестайлинг",
+        "2002—2006 I"
+      ]
+    },
+    {
+      "Model": "C3 Aircross",
+      "Generations": [
+        "2021—2024 I рестайлинг",
+        "2017—2021 I"
+      ]
+    },
+    {
+      "Model": "C3 Picasso",
+      "Generations": [
+        "2012—2017 I рестайлинг",
+        "2009—2012 I"
+      ]
+    },
+    {
+      "Model": "C4",
+      "Generations": [
+        "2020—2024 III",
+        "2015—2024 II рестайлинг",
+        "2010—2016 II",
+        "2008—2011 I рестайлинг",
+        "2004—2014 I"
+      ]
+    },
+    {
+      "Model": "C4 Aircross",
+      "Generations": [
+        "2012—2017 I"
+      ]
+    },
+    {
+      "Model": "C4 Cactus",
+      "Generations": [
+        "2018—2024 I рестайлинг",
+        "2014—2017 I"
+      ]
+    },
+    {
+      "Model": "C4 Picasso",
+      "Generations": [
+        "2016—2018 II рестайлинг",
+        "2013—2016 II",
+        "2006—2013 I"
+      ]
+    },
+    {
+      "Model": "C4 SpaceTourer",
+      "Generations": [
+        "2018—2024 I"
+      ]
+    },
+    {
+      "Model": "C4 X",
+      "Generations": [
+        "2022—2024 III"
+      ]
+    },
+    {
+      "Model": "C5",
+      "Generations": [
+        "2008—2017 II",
+        "2004—2008 I рестайлинг",
+        "2001—2004 I"
+      ]
+    },
+    {
+      "Model": "C5 Aircross",
+      "Generations": [
+        "2022—2024 I рестайлинг",
+        "2018—2022 I"
+      ]
+    },
+    {
+      "Model": "C5 X",
+      "Generations": [
+        "2021—2024 I"
+      ]
+    },
+    {
+      "Model": "C6",
+      "Generations": [
+        "2004—2012 I"
+      ]
+    },
+    {
+      "Model": "C8",
+      "Generations": [
+        "2008—2014 I рестайлинг",
+        "2002—2008 I"
+      ]
+    },
+    {
+      "Model": "CX",
+      "Generations": [
+        "1985—1991 II",
+        "1974—1985 I"
+      ]
+    },
+    {
+      "Model": "DS",
+      "Generations": [
+        "1968—1976 I рестайлинг 2",
+        "1963—1968 I рестайлинг",
+        "1955—1973 I"
+      ]
+    },
+    {
+      "Model": "DS 3",
+      "Generations": [
+        "2014—2015 I рестайлинг",
+        "2009—2014 I"
+      ]
+    },
+    {
+      "Model": "DS 4",
+      "Generations": [
+        "2011—2015 I"
+      ]
+    },
+    {
+      "Model": "DS 5",
+      "Generations": [
+        "2011—2015 I"
+      ]
+    },
+    {
+      "Model": "Evasion",
+      "Generations": [
+        "1994—2002 I"
+      ]
+    },
+    {
+      "Model": "GS",
+      "Generations": [
+        "1971—1986 I"
+      ]
+    },
+    {
+      "Model": "Grand C4 Picasso",
+      "Generations": [
+        "2016—2018 II рестайлинг",
+        "2013—2016 II",
+        "2006—2013 I"
+      ]
+    },
+    {
+      "Model": "Grand C4 SpaceTourer",
+      "Generations": [
+        "2018—2024 I"
+      ]
+    },
+    {
+      "Model": "Jumper",
+      "Generations": [
+        "2012—2024 II рестайлинг",
+        "2006—2012 II",
+        "1994—2006 I"
+      ]
+    },
+    {
+      "Model": "Jumpy",
+      "Generations": [
+        "2016—2024 III",
+        "2012—2016 II рестайлинг",
+        "2007—2012 II",
+        "1994—2006 I"
+      ]
+    },
+    {
+      "Model": "Mehari",
+      "Generations": [
+        "1968—1988 I"
+      ]
+    },
+    {
+      "Model": "Nemo",
+      "Generations": [
+        "2008—2015 I"
+      ]
+    },
+    {
+      "Model": "Oltcit Club",
+      "Generations": [
+        "1981—1995 I"
+      ]
+    },
+    {
+      "Model": "Saxo",
+      "Generations": [
+        "1996—2003 I"
+      ]
+    },
+    {
+      "Model": "SpaceTourer",
+      "Generations": [
+        "2016—2024 I"
+      ]
+    },
+    {
+      "Model": "Type H",
+      "Generations": [
+        "1947—1981 I"
+      ]
+    },
+    {
+      "Model": "Visa",
+      "Generations": [
+        "1978—1991 I"
+      ]
+    },
+    {
+      "Model": "XM",
+      "Generations": [
+        "1994—2000 II",
+        "1989—1994 I"
+      ]
+    },
+    {
+      "Model": "Xantia",
+      "Generations": [
+        "1998—2002 I рестайлинг",
+        "1992—1998 I"
+      ]
+    },
+    {
+      "Model": "Xsara",
+      "Generations": [
+        "1997—2006 I"
+      ]
+    },
+    {
+      "Model": "Xsara Picasso",
+      "Generations": [
+        "1999—2012 I"
+      ]
+    },
+    {
+      "Model": "ZX",
+      "Generations": [
+        "1991—1998 I"
+      ]
+    }
+  ]
+}

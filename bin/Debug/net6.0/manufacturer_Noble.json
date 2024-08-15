@@ -1,0 +1,23 @@
+﻿{
+  "Make": "Noble",
+  "Models": [
+    {
+      "Model": "M12",
+      "Generations": [
+        "2000—2007 I"
+      ]
+    },
+    {
+      "Model": "M15",
+      "Generations": [
+        "2006—2011 I"
+      ]
+    },
+    {
+      "Model": "M600",
+      "Generations": [
+        "2010—2024 I"
+      ]
+    }
+  ]
+}

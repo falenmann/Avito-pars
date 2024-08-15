@@ -1,0 +1,69 @@
+﻿{
+  "Make": "Maserati",
+  "Models": [
+    {
+      "Model": "3200 GT",
+      "Generations": [
+        "1998—2002 I"
+      ]
+    },
+    {
+      "Model": "4200 GT",
+      "Generations": [
+        "2002—2007 I"
+      ]
+    },
+    {
+      "Model": "Biturbo",
+      "Generations": [
+        "1981—1994 I"
+      ]
+    },
+    {
+      "Model": "Ghibli",
+      "Generations": [
+        "2016—2020 III рестайлинг",
+        "2013—2016 III",
+        "1992—1998 II"
+      ]
+    },
+    {
+      "Model": "GranTurismo",
+      "Generations": [
+        "2022—2024 II",
+        "2007—2016 I"
+      ]
+    },
+    {
+      "Model": "Grecale",
+      "Generations": [
+        "2022—2024 I"
+      ]
+    },
+    {
+      "Model": "Levante",
+      "Generations": [
+        "2020—2024 I рестайлинг",
+        "2016—2020 I"
+      ]
+    },
+    {
+      "Model": "MC20",
+      "Generations": [
+        "2020—2024 I"
+      ]
+    },
+    {
+      "Model": "Quattroporte",
+      "Generations": [
+        "2020—2024 VI рестайлинг 2",
+        "2016—2020 VI рестайлинг",
+        "2012—2016 VI",
+        "2008—2012 V рестайлинг",
+        "2003—2012 V",
+        "1994—2000 IV",
+        "1979—1990 III"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,713 @@
+﻿{
+  "Make": "Volkswagen",
+  "Models": [
+    {
+      "Model": "181",
+      "Generations": [
+        "1969—1979 I"
+      ]
+    },
+    {
+      "Model": "Amarok",
+      "Generations": [
+        "2022—2024 II",
+        "2016—2023 I рестайлинг",
+        "2010—2016 I"
+      ]
+    },
+    {
+      "Model": "Arteon",
+      "Generations": [
+        "2020—2024 I рестайлинг",
+        "2017—2020 I"
+      ]
+    },
+    {
+      "Model": "Arteon R",
+      "Generations": [
+        "2020—2024 I"
+      ]
+    },
+    {
+      "Model": "Atlas",
+      "Generations": [
+        "2023—2024 I рестайлинг 2",
+        "2020—2023 I рестайлинг",
+        "2017—2020 I"
+      ]
+    },
+    {
+      "Model": "Atlas Cross Sport",
+      "Generations": [
+        "2019—2023 I"
+      ]
+    },
+    {
+      "Model": "Beetle",
+      "Generations": [
+        "2011—2019 A5",
+        "2005—2011 A4 рестайлинг",
+        "1997—2005 A4"
+      ]
+    },
+    {
+      "Model": "Bora",
+      "Generations": [
+        "2022—2024 IV рестайлинг",
+        "2018—2022 IV",
+        "2012—2018 III",
+        "1998—2005 A4"
+      ]
+    },
+    {
+      "Model": "Caddy",
+      "Generations": [
+        "2020—2024 V",
+        "2015—2020 IV",
+        "2010—2015 III рестайлинг",
+        "2004—2010 III",
+        "1995—2004 II",
+        "1979—1992 I"
+      ]
+    },
+    {
+      "Model": "California",
+      "Generations": [
+        "2019—2024 T6 рестайлинг",
+        "2015—2019 T6",
+        "2003—2015 T5",
+        "1991—2003 T4"
+      ]
+    },
+    {
+      "Model": "Caravelle",
+      "Generations": [
+        "2019—2024 T6 рестайлинг",
+        "2015—2020 T6",
+        "2009—2015 T5 рестайлинг",
+        "2003—2009 T5",
+        "1990—2003 T4",
+        "1980—1991 T3"
+      ]
+    },
+    {
+      "Model": "Corrado",
+      "Generations": [
+        "1988—1995 I"
+      ]
+    },
+    {
+      "Model": "Crafter",
+      "Generations": [
+        "2017—2024 II",
+        "2011—2018 I рестайлинг",
+        "2006—2011 I"
+      ]
+    },
+    {
+      "Model": "CrossPolo",
+      "Generations": [
+        "2014—2024 V рестайлинг",
+        "2009—2015 V",
+        "2005—2009 IV рестайлинг"
+      ]
+    },
+    {
+      "Model": "Derby",
+      "Generations": [
+        "1981—1984 II",
+        "1977—1981 I"
+      ]
+    },
+    {
+      "Model": "Eos",
+      "Generations": [
+        "2010—2015 I рестайлинг",
+        "2006—2011 I"
+      ]
+    },
+    {
+      "Model": "EuroVan",
+      "Generations": [
+        "1997—2003 T4 рестайлинг",
+        "1992—1997 T4"
+      ]
+    },
+    {
+      "Model": "Fox",
+      "Generations": [
+        "2009—2011 I рестайлинг",
+        "2003—2009 I",
+        "1987—1994 G1"
+      ]
+    },
+    {
+      "Model": "Gol",
+      "Generations": [
+        "2008—2012 III",
+        "1999—2013 II рестайлинг",
+        "1994—1999 II",
+        "1980—1994 I"
+      ]
+    },
+    {
+      "Model": "Golf",
+      "Generations": [
+        "2019—2024 Mk8",
+        "2017—2021 Mk7 рестайлинг",
+        "2012—2017 Mk7",
+        "2008—2012 Mk6",
+        "2003—2009 Mk5",
+        "1997—2006 Mk4",
+        "1991—2000 Mk3",
+        "1983—1992 Mk2",
+        "1974—1993 Mk1"
+      ]
+    },
+    {
+      "Model": "Golf Country",
+      "Generations": [
+        "1990—1991 I"
+      ]
+    },
+    {
+      "Model": "Golf GTI",
+      "Generations": [
+        "2019—2024 VIII",
+        "2017—2020 VII рестайлинг",
+        "2013—2017 VII",
+        "2008—2012 VI",
+        "2004—2008 V",
+        "1998—2005 IV",
+        "1992—1997 III",
+        "1983—1991 II",
+        "1976—1983 I"
+      ]
+    },
+    {
+      "Model": "Golf Plus",
+      "Generations": [
+        "2009—2014 II",
+        "2005—2009 I"
+      ]
+    },
+    {
+      "Model": "Golf R",
+      "Generations": [
+        "2020—2024 VIII",
+        "2017—2020 VII рестайлинг",
+        "2013—2017 VII",
+        "2009—2013 VI"
+      ]
+    },
+    {
+      "Model": "Golf R32",
+      "Generations": [
+        "2005—2008 V",
+        "2002—2005 IV"
+      ]
+    },
+    {
+      "Model": "Golf Sportsvan",
+      "Generations": [
+        "2017—2020 I рестайлинг",
+        "2014—2017 I"
+      ]
+    },
+    {
+      "Model": "Grand California",
+      "Generations": [
+        "2018—2024 I"
+      ]
+    },
+    {
+      "Model": "ID.3",
+      "Generations": [
+        "2019—2023 I"
+      ]
+    },
+    {
+      "Model": "ID.4",
+      "Generations": [
+        "2020—2024 I"
+      ]
+    },
+    {
+      "Model": "ID.4 Crozz",
+      "Generations": [
+        "2021—2024 I"
+      ]
+    },
+    {
+      "Model": "ID.4 X",
+      "Generations": [
+        "2020—2024 I"
+      ]
+    },
+    {
+      "Model": "ID.5",
+      "Generations": [
+        "2021—2024 I"
+      ]
+    },
+    {
+      "Model": "ID.6 Crozz",
+      "Generations": [
+        "2021—2024 I"
+      ]
+    },
+    {
+      "Model": "ID.6 X",
+      "Generations": [
+        "2021—2024 I"
+      ]
+    },
+    {
+      "Model": "ID.7",
+      "Generations": [
+        "2023—2024 I"
+      ]
+    },
+    {
+      "Model": "ID.Buzz",
+      "Generations": [
+        "2022—2024 I"
+      ]
+    },
+    {
+      "Model": "Iltis",
+      "Generations": [
+        "1978—1988 I"
+      ]
+    },
+    {
+      "Model": "Jetta",
+      "Generations": [
+        "2021—2024 VII рестайлинг",
+        "2018—2021 VII",
+        "2014—2019 VI рестайлинг",
+        "2010—2015 VI",
+        "2005—2011 V",
+        "1998—2005 IV",
+        "1992—1998 III",
+        "1984—1992 II",
+        "1978—1984 I"
+      ]
+    },
+    {
+      "Model": "K70",
+      "Generations": [
+        "1970—1974 I рестайлинг"
+      ]
+    },
+    {
+      "Model": "Kaefer",
+      "Generations": [
+        "1938—2003 I"
+      ]
+    },
+    {
+      "Model": "LT",
+      "Generations": [
+        "1996—2006 II",
+        "1975—1996 I"
+      ]
+    },
+    {
+      "Model": "Lamando",
+      "Generations": [
+        "2022—2024 II"
+      ]
+    },
+    {
+      "Model": "Lavida",
+      "Generations": [
+        "2022—2024 III рестайлинг",
+        "2018—2022 III",
+        "2015—2018 II рестайлинг",
+        "2012—2015 II",
+        "2008—2012 I"
+      ]
+    },
+    {
+      "Model": "Lupo",
+      "Generations": [
+        "1998—2005 I"
+      ]
+    },
+    {
+      "Model": "Magotan",
+      "Generations": [
+        "2019—2024 B8 рестайлинг",
+        "2016—2019 B8"
+      ]
+    },
+    {
+      "Model": "Multivan",
+      "Generations": [
+        "2021—2024 T7",
+        "2019—2024 T6 рестайлинг",
+        "2015—2020 T6",
+        "2009—2015 T5 рестайлинг",
+        "2003—2009 T5",
+        "1992—2003 T4",
+        "1984—1992 T3"
+      ]
+    },
+    {
+      "Model": "New Beetle",
+      "Generations": [
+        "2005—2011 A4 рестайлинг",
+        "1997—2005 A4"
+      ]
+    },
+    {
+      "Model": "Passat",
+      "Generations": [
+        "2019—2024 B8 рестайлинг",
+        "2014—2020 B8",
+        "2010—2015 B7",
+        "2005—2010 B6",
+        "2000—2005 B5 рестайлинг",
+        "1996—2001 B5",
+        "1993—1997 B4",
+        "1988—1993 B3",
+        "1980—1988 B2",
+        "1973—1981 B1"
+      ]
+    },
+    {
+      "Model": "Passat (China)",
+      "Generations": [
+        "2019—2022 II"
+      ]
+    },
+    {
+      "Model": "Passat (North America)",
+      "Generations": [
+        "2022—2024 II рестайлинг",
+        "2019—2022 II",
+        "2015—2019 I рестайлинг",
+        "2011—2016 I"
+      ]
+    },
+    {
+      "Model": "Passat CC",
+      "Generations": [
+        "2012—2017 B6 рестайлинг",
+        "2008—2012 B6"
+      ]
+    },
+    {
+      "Model": "Phaeton",
+      "Generations": [
+        "2010—2016 I рестайлинг",
+        "2002—2010 I"
+      ]
+    },
+    {
+      "Model": "Phideon",
+      "Generations": [
+        "2020—2024 I рестайлинг",
+        "2016—2020 I"
+      ]
+    },
+    {
+      "Model": "Pointer",
+      "Generations": [
+        "2003—2006 I"
+      ]
+    },
+    {
+      "Model": "Polo",
+      "Generations": [
+        "2021—2024 VI рестайлинг",
+        "2020—2023 VI",
+        "2017—2021 VI EU Market",
+        "2015—2020 V рестайлинг",
+        "2009—2015 V",
+        "2005—2009 IV рестайлинг",
+        "2001—2005 IV",
+        "1999—2001 III рестайлинг",
+        "1994—2002 III",
+        "1981—1994 II",
+        "1975—1988 I"
+      ]
+    },
+    {
+      "Model": "Polo GTI",
+      "Generations": [
+        "2017—2021 VI",
+        "2014—2017 V рестайлинг",
+        "2009—2014 V",
+        "2005—2009 IV",
+        "1999—2001 III рестайлинг",
+        "1998—1999 III"
+      ]
+    },
+    {
+      "Model": "Polo Plus",
+      "Generations": [
+        "2019—2022 I"
+      ]
+    },
+    {
+      "Model": "Routan",
+      "Generations": [
+        "2008—2012 I"
+      ]
+    },
+    {
+      "Model": "Santana",
+      "Generations": [
+        "1981—1988 I"
+      ]
+    },
+    {
+      "Model": "Scirocco",
+      "Generations": [
+        "2014—2017 III рестайлинг",
+        "2008—2014 III",
+        "1981—1992 II",
+        "1974—1981 I"
+      ]
+    },
+    {
+      "Model": "Sharan",
+      "Generations": [
+        "2015—2024 II рестайлинг",
+        "2010—2015 II",
+        "2003—2010 I рестайлинг 2",
+        "2000—2003 I рестайлинг",
+        "1995—2000 I"
+      ]
+    },
+    {
+      "Model": "SpaceFox",
+      "Generations": [
+        "2006—2018 I"
+      ]
+    },
+    {
+      "Model": "T-Cross",
+      "Generations": [
+        "2018—2023 I"
+      ]
+    },
+    {
+      "Model": "T-Roc",
+      "Generations": [
+        "2021—2024 I рестайлинг",
+        "2017—2021 I"
+      ]
+    },
+    {
+      "Model": "T-Roc (China)",
+      "Generations": [
+        "2018—2024 I"
+      ]
+    },
+    {
+      "Model": "T-Roc R",
+      "Generations": [
+        "2021—2024 I рестайлинг",
+        "2019—2021 I"
+      ]
+    },
+    {
+      "Model": "Tacqua",
+      "Generations": [
+        "2019—2024 I"
+      ]
+    },
+    {
+      "Model": "Taigo",
+      "Generations": [
+        "2021—2024 I"
+      ]
+    },
+    {
+      "Model": "Talagon",
+      "Generations": [
+        "2021—2024 I"
+      ]
+    },
+    {
+      "Model": "Taos",
+      "Generations": [
+        "2020—2024 I"
+      ]
+    },
+    {
+      "Model": "Taro",
+      "Generations": [
+        "1989—1997 I"
+      ]
+    },
+    {
+      "Model": "Tavendor",
+      "Generations": [
+        "2022—2024 I"
+      ]
+    },
+    {
+      "Model": "Tayron",
+      "Generations": [
+        "2022—2024 I рестайлинг",
+        "2018—2022 I"
+      ]
+    },
+    {
+      "Model": "Tayron X",
+      "Generations": [
+        "2022—2024 I рестайлинг",
+        "2018—2022 I"
+      ]
+    },
+    {
+      "Model": "Teramont",
+      "Generations": [
+        "2021—2024 I рестайлинг",
+        "2017—2021 I"
+      ]
+    },
+    {
+      "Model": "Teramont X",
+      "Generations": [
+        "2021—2024 I рестайлинг",
+        "2017—2022 I"
+      ]
+    },
+    {
+      "Model": "Tharu",
+      "Generations": [
+        "2023—2024 I рестайлинг",
+        "2018—2023 I"
+      ]
+    },
+    {
+      "Model": "Tiguan",
+      "Generations": [
+        "2020—2024 II рестайлинг",
+        "2016—2020 II",
+        "2011—2019 I рестайлинг",
+        "2007—2011 I"
+      ]
+    },
+    {
+      "Model": "Tiguan Allspace",
+      "Generations": [
+        "2020—2024 II рестайлинг",
+        "2016—2021 II"
+      ]
+    },
+    {
+      "Model": "Tiguan L",
+      "Generations": [
+        "2020—2024 II рестайлинг"
+      ]
+    },
+    {
+      "Model": "Tiguan R",
+      "Generations": [
+        "2020—2024 II рестайлинг"
+      ]
+    },
+    {
+      "Model": "Tiguan X",
+      "Generations": [
+        "2020—2024 II рестайлинг"
+      ]
+    },
+    {
+      "Model": "Touareg",
+      "Generations": [
+        "2023—2024 III рестайлинг",
+        "2018—2023 III",
+        "2014—2018 II рестайлинг",
+        "2010—2014 II",
+        "2006—2010 I рестайлинг",
+        "2002—2006 I"
+      ]
+    },
+    {
+      "Model": "Touran",
+      "Generations": [
+        "2015—2024 III",
+        "2010—2015 II",
+        "2006—2010 I рестайлинг",
+        "2003—2006 I"
+      ]
+    },
+    {
+      "Model": "Touran Cross",
+      "Generations": [
+        "2010—2015 II",
+        "2006—2010 I рестайлинг"
+      ]
+    },
+    {
+      "Model": "Transporter",
+      "Generations": [
+        "2019—2024 T6 рестайлинг",
+        "2015—2019 T6",
+        "2009—2015 T5 рестайлинг",
+        "2003—2009 T5",
+        "1990—2003 T4",
+        "1979—1992 T3"
+      ]
+    },
+    {
+      "Model": "Type 1",
+      "Generations": [
+        "1938—2003 I"
+      ]
+    },
+    {
+      "Model": "Type 166",
+      "Generations": [
+        "1942—1944 I"
+      ]
+    },
+    {
+      "Model": "Type 2",
+      "Generations": [
+        "1967—1979 T2",
+        "1950—1967 T1"
+      ]
+    },
+    {
+      "Model": "Type 4",
+      "Generations": [
+        "1972—1975 412",
+        "1968—1973 411"
+      ]
+    },
+    {
+      "Model": "Up",
+      "Generations": [
+        "2016—2024 I рестайлинг",
+        "2012—2016 I"
+      ]
+    },
+    {
+      "Model": "Vento",
+      "Generations": [
+        "1991—1998 I"
+      ]
+    },
+    {
+      "Model": "Viloran",
+      "Generations": [
+        "2021—2024 I рестайлинг",
+        "2020—2021 I"
+      ]
+    },
+    {
+      "Model": "e-Bora",
+      "Generations": [
+        "2019—2022 I"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,268 @@
+﻿{
+  "Make": "Dodge",
+  "Models": [
+    {
+      "Model": "Aries",
+      "Generations": [
+        "1981—1989 I"
+      ]
+    },
+    {
+      "Model": "Avenger",
+      "Generations": [
+        "2011—2014 II рестайлинг",
+        "2007—2010 II",
+        "1994—2000 I"
+      ]
+    },
+    {
+      "Model": "Caliber",
+      "Generations": [
+        "2009—2013 I рестайлинг",
+        "2006—2009 I"
+      ]
+    },
+    {
+      "Model": "Caliber SRT",
+      "Generations": [
+        "2006—2009 I"
+      ]
+    },
+    {
+      "Model": "Caravan",
+      "Generations": [
+        "2007—2020 V",
+        "2000—2007 IV",
+        "1995—2000 III",
+        "1990—1995 II",
+        "1984—1990 I"
+      ]
+    },
+    {
+      "Model": "Challenger",
+      "Generations": [
+        "2014—2024 III рестайлинг 2",
+        "2010—2014 III рестайлинг",
+        "2008—2010 III",
+        "1977—1983 II",
+        "1969—1974 I"
+      ]
+    },
+    {
+      "Model": "Challenger SRT",
+      "Generations": [
+        "2014—2024 III рестайлинг 2",
+        "2010—2014 III рестайлинг",
+        "2008—2010 III"
+      ]
+    },
+    {
+      "Model": "Charger",
+      "Generations": [
+        "2014—2024 VI рестайлинг",
+        "2010—2014 VI",
+        "2005—2010 V",
+        "1971—1974 III",
+        "1968—1970 II"
+      ]
+    },
+    {
+      "Model": "Charger SRT",
+      "Generations": [
+        "2014—2024 VI рестайлинг"
+      ]
+    },
+    {
+      "Model": "Coronet",
+      "Generations": [
+        "1971—1974 VI"
+      ]
+    },
+    {
+      "Model": "Custom Royal",
+      "Generations": [
+        "1955—1956 D55-3/D63-3"
+      ]
+    },
+    {
+      "Model": "D/W Series",
+      "Generations": [
+        "1972—1980 III"
+      ]
+    },
+    {
+      "Model": "Dakota",
+      "Generations": [
+        "2007—2011 III рестайлинг",
+        "2004—2007 III",
+        "1997—2004 II",
+        "1987—1996 I"
+      ]
+    },
+    {
+      "Model": "Dart",
+      "Generations": [
+        "2012—2016 PF",
+        "1967—1976 IV"
+      ]
+    },
+    {
+      "Model": "Daytona",
+      "Generations": [
+        "1984—1993 I"
+      ]
+    },
+    {
+      "Model": "Diplomat",
+      "Generations": [
+        "1977—1989 I"
+      ]
+    },
+    {
+      "Model": "Durango",
+      "Generations": [
+        "2020—2024 III рестайлинг 2",
+        "2013—2020 III рестайлинг",
+        "2010—2013 III",
+        "2006—2009 II рестайлинг",
+        "2003—2006 II",
+        "1997—2003 I"
+      ]
+    },
+    {
+      "Model": "Durango SRT",
+      "Generations": [
+        "2020—2024 III рестайлинг 2",
+        "2013—2020 III рестайлинг"
+      ]
+    },
+    {
+      "Model": "Dynasty",
+      "Generations": [
+        "1987—1993 I"
+      ]
+    },
+    {
+      "Model": "Grand Caravan",
+      "Generations": [
+        "2007—2020 V",
+        "2000—2007 IV",
+        "1995—2000 III",
+        "1990—1994 II",
+        "1984—1990 I"
+      ]
+    },
+    {
+      "Model": "Intrepid",
+      "Generations": [
+        "1997—2004 II",
+        "1992—1997 I"
+      ]
+    },
+    {
+      "Model": "Journey",
+      "Generations": [
+        "2011—2020 I рестайлинг",
+        "2007—2011 I"
+      ]
+    },
+    {
+      "Model": "Magnum",
+      "Generations": [
+        "2007—2008 I рестайлинг",
+        "2003—2007 I"
+      ]
+    },
+    {
+      "Model": "Neon",
+      "Generations": [
+        "2017—2024 III",
+        "1999—2005 II",
+        "1994—1999 I"
+      ]
+    },
+    {
+      "Model": "Neon SRT",
+      "Generations": [
+        "1999—2005 II"
+      ]
+    },
+    {
+      "Model": "Nitro",
+      "Generations": [
+        "2006—2011 I"
+      ]
+    },
+    {
+      "Model": "Ram",
+      "Generations": [
+        "2018—2024 V",
+        "2008—2019 IV",
+        "2001—2008 III",
+        "1994—2001 II",
+        "1981—1993 I"
+      ]
+    },
+    {
+      "Model": "Ram Promaster City",
+      "Generations": [
+        "2014—2024 I"
+      ]
+    },
+    {
+      "Model": "Ram Van",
+      "Generations": [
+        "1994—2003 III",
+        "1979—1993 II"
+      ]
+    },
+    {
+      "Model": "Shadow",
+      "Generations": [
+        "1986—1994 I"
+      ]
+    },
+    {
+      "Model": "Spirit",
+      "Generations": [
+        "1988—1995 I"
+      ]
+    },
+    {
+      "Model": "Stealth",
+      "Generations": [
+        "1990—1996 I"
+      ]
+    },
+    {
+      "Model": "Stratus",
+      "Generations": [
+        "2002—2006 II рестайлинг",
+        "2000—2003 II",
+        "1995—2000 I"
+      ]
+    },
+    {
+      "Model": "Viper",
+      "Generations": [
+        "2007—2010 IV",
+        "2002—2007 III",
+        "1995—2002 I",
+        "1995—2002 II"
+      ]
+    },
+    {
+      "Model": "Viper SRT",
+      "Generations": [
+        "2012—2017 V"
+      ]
+    },
+    {
+      "Model": "WC series",
+      "Generations": [
+        "1942—1945 T214",
+        "1941—1942 T207"
+      ]
+    }
+  ]
+}

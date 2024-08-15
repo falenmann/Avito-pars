@@ -1,0 +1,163 @@
+﻿{
+  "Make": "MINI",
+  "Models": [
+    {
+      "Model": "Aceman E",
+      "Generations": [
+        "2024—2024 I"
+      ]
+    },
+    {
+      "Model": "Aceman SE",
+      "Generations": [
+        "2024—2024 I"
+      ]
+    },
+    {
+      "Model": "Cooper",
+      "Generations": [
+        "2021—2024 III рестайлинг 2",
+        "2018—2021 III рестайлинг",
+        "2013—2018 III",
+        "2010—2015 II рестайлинг",
+        "2006—2010 II",
+        "2000—2015 I"
+      ]
+    },
+    {
+      "Model": "Cooper Clubman",
+      "Generations": [
+        "2019—2024 II рестайлинг",
+        "2015—2019 II",
+        "2010—2014 I рестайлинг",
+        "2007—2010 I"
+      ]
+    },
+    {
+      "Model": "Cooper Countryman",
+      "Generations": [
+        "2023—2024 III",
+        "2020—2023 II рестайлинг",
+        "2016—2020 II",
+        "2010—2016 I"
+      ]
+    },
+    {
+      "Model": "Cooper Paceman",
+      "Generations": [
+        "2012—2016 I"
+      ]
+    },
+    {
+      "Model": "Cooper S",
+      "Generations": [
+        "2021—2024 III рестайлинг 2",
+        "2018—2021 III рестайлинг",
+        "2013—2018 III",
+        "2010—2015 II рестайлинг",
+        "2006—2010 II",
+        "2000—2006 I"
+      ]
+    },
+    {
+      "Model": "Cooper S Clubman",
+      "Generations": [
+        "2019—2024 II рестайлинг",
+        "2015—2019 II",
+        "2010—2014 I рестайлинг",
+        "2007—2010 I"
+      ]
+    },
+    {
+      "Model": "Cooper S Countryman",
+      "Generations": [
+        "2023—2024 III",
+        "2020—2023 II рестайлинг",
+        "2016—2020 II",
+        "2010—2016 I"
+      ]
+    },
+    {
+      "Model": "Cooper S Paceman",
+      "Generations": [
+        "2012—2016 I"
+      ]
+    },
+    {
+      "Model": "Cooper SD Clubman",
+      "Generations": [
+        "2019—2024 II рестайлинг",
+        "2015—2019 II"
+      ]
+    },
+    {
+      "Model": "Cooper SD Countryman",
+      "Generations": [
+        "2020—2023 II рестайлинг",
+        "2016—2020 II",
+        "2010—2016 I"
+      ]
+    },
+    {
+      "Model": "Cooper SE",
+      "Generations": [
+        "2021—2024 III рестайлинг 2",
+        "2018—2021 III рестайлинг"
+      ]
+    },
+    {
+      "Model": "Cooper SE Countryman",
+      "Generations": [
+        "2023—2024 III",
+        "2016—2020 II"
+      ]
+    },
+    {
+      "Model": "John Cooper Works",
+      "Generations": [
+        "2021—2024 III рестайлинг 2",
+        "2018—2021 III рестайлинг",
+        "2013—2018 III",
+        "2010—2013 II рестайлинг",
+        "2006—2010 II",
+        "2000—2006 I"
+      ]
+    },
+    {
+      "Model": "John Cooper Works Clubman",
+      "Generations": [
+        "2019—2024 II рестайлинг",
+        "2015—2019 II",
+        "2010—2014 I рестайлинг",
+        "2007—2010 I"
+      ]
+    },
+    {
+      "Model": "John Cooper Works Countryman",
+      "Generations": [
+        "2023—2024 III",
+        "2020—2024 II рестайлинг",
+        "2016—2020 II",
+        "2010—2016 I"
+      ]
+    },
+    {
+      "Model": "John Cooper Works Paceman",
+      "Generations": [
+        "2012—2016 I"
+      ]
+    },
+    {
+      "Model": "One",
+      "Generations": [
+        "2021—2024 III рестайлинг 2",
+        "2018—2021 III рестайлинг",
+        "2013—2018 III",
+        "2010—2013 II рестайлинг",
+        "2006—2010 II",
+        "2004—2006 I рестайлинг",
+        "2001—2004 I"
+      ]
+    }
+  ]
+}

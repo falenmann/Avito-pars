@@ -1,0 +1,23 @@
+﻿{
+  "Make": "HiPhi",
+  "Models": [
+    {
+      "Model": "X",
+      "Generations": [
+        "2020—2024 I"
+      ]
+    },
+    {
+      "Model": "Y",
+      "Generations": [
+        "2023—2024 I"
+      ]
+    },
+    {
+      "Model": "Z",
+      "Generations": [
+        "2022—2024 I"
+      ]
+    }
+  ]
+}

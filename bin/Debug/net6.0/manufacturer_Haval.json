@@ -1,0 +1,157 @@
+﻿{
+  "Make": "Haval",
+  "Models": [
+    {
+      "Model": "Beast (Shenshou)",
+      "Generations": [
+        "2021—2024 I"
+      ]
+    },
+    {
+      "Model": "Chitu",
+      "Generations": [
+        "2021—2024 I"
+      ]
+    },
+    {
+      "Model": "DaGou (Big Dog)",
+      "Generations": [
+        "2022—2024 II",
+        "2020—2024 I"
+      ]
+    },
+    {
+      "Model": "Dargo",
+      "Generations": [
+        "2022—2024 I"
+      ]
+    },
+    {
+      "Model": "Dargo X",
+      "Generations": [
+        "2022—2024 I"
+      ]
+    },
+    {
+      "Model": "F5",
+      "Generations": [
+        "2018—2020 I"
+      ]
+    },
+    {
+      "Model": "F7",
+      "Generations": [
+        "2022—2024 I рестайлинг",
+        "2018—2022 I"
+      ]
+    },
+    {
+      "Model": "F7x",
+      "Generations": [
+        "2022—2024 I рестайлинг",
+        "2019—2022 I"
+      ]
+    },
+    {
+      "Model": "H2",
+      "Generations": [
+        "2014—2021 I"
+      ]
+    },
+    {
+      "Model": "H3",
+      "Generations": [
+        "2023—2024 I"
+      ]
+    },
+    {
+      "Model": "H4",
+      "Generations": [
+        "2018—2020 I"
+      ]
+    },
+    {
+      "Model": "H5",
+      "Generations": [
+        "2023—2024 II",
+        "2020—2021 I"
+      ]
+    },
+    {
+      "Model": "H6",
+      "Generations": [
+        "2020—2024 III",
+        "2017—2024 II",
+        "2014—2022 I"
+      ]
+    },
+    {
+      "Model": "H6 Coupe",
+      "Generations": [
+        "2015—2019 I"
+      ]
+    },
+    {
+      "Model": "H6S",
+      "Generations": [
+        "2021—2024 I"
+      ]
+    },
+    {
+      "Model": "H8",
+      "Generations": [
+        "2014—2017 I"
+      ]
+    },
+    {
+      "Model": "H9",
+      "Generations": [
+        "2017—2024 I рестайлинг",
+        "2014—2017 I"
+      ]
+    },
+    {
+      "Model": "Jolion",
+      "Generations": [
+        "2023—2024 I рестайлинг",
+        "2021—2024 I"
+      ]
+    },
+    {
+      "Model": "KuGou (Cool Dog)",
+      "Generations": [
+        "2022—2024 I"
+      ]
+    },
+    {
+      "Model": "M6",
+      "Generations": [
+        "2020—2024 II"
+      ]
+    },
+    {
+      "Model": "Menglong",
+      "Generations": [
+        "2023—2024 I"
+      ]
+    },
+    {
+      "Model": "Raptor",
+      "Generations": [
+        "2023—2024 I"
+      ]
+    },
+    {
+      "Model": "Xiaolong",
+      "Generations": [
+        "2023—2024 I"
+      ]
+    },
+    {
+      "Model": "Xiaolong Max",
+      "Generations": [
+        "2023—2024 I"
+      ]
+    }
+  ]
+}

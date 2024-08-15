@@ -1,0 +1,22 @@
+﻿{
+  "Make": "Iveco",
+  "Models": [
+    {
+      "Model": "Daily",
+      "Generations": [
+        "2014—2024 VI",
+        "2011—2014 V",
+        "2006—2011 IV",
+        "1999—2006 III",
+        "1989—1999 II",
+        "1978—1989 I"
+      ]
+    },
+    {
+      "Model": "Massif",
+      "Generations": [
+        "2007—2011 I"
+      ]
+    }
+  ]
+}

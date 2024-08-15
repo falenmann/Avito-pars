@@ -1,0 +1,93 @@
+﻿{
+  "Make": "Oldsmobile",
+  "Models": [
+    {
+      "Model": "Achieva",
+      "Generations": [
+        "1991—1997 I"
+      ]
+    },
+    {
+      "Model": "Alero",
+      "Generations": [
+        "1999—2004 I"
+      ]
+    },
+    {
+      "Model": "Aurora",
+      "Generations": [
+        "1999—2003 II",
+        "1994—1999 I"
+      ]
+    },
+    {
+      "Model": "Bravada",
+      "Generations": [
+        "2001—2004 III",
+        "1995—2001 II",
+        "1990—1994 I"
+      ]
+    },
+    {
+      "Model": "Cutlass",
+      "Generations": [
+        "1997—1999 VI",
+        "1978—1988 V",
+        "1968—1972 III"
+      ]
+    },
+    {
+      "Model": "Cutlass Ciera",
+      "Generations": [
+        "1981—1996 I"
+      ]
+    },
+    {
+      "Model": "Cutlass Supreme",
+      "Generations": [
+        "1988—1997 I"
+      ]
+    },
+    {
+      "Model": "Eighty-Eight",
+      "Generations": [
+        "1992—1999 X",
+        "1986—1991 IX",
+        "1977—1985 VIII",
+        "1971—1976 VII",
+        "1954—1956 II"
+      ]
+    },
+    {
+      "Model": "Ninety-Eight",
+      "Generations": [
+        "1991—1996 XI",
+        "1985—1990 X",
+        "1977—1984 IX",
+        "1961—1964 VII"
+      ]
+    },
+    {
+      "Model": "Omega",
+      "Generations": [
+        "1980—1984 I"
+      ]
+    },
+    {
+      "Model": "Silhouette",
+      "Generations": [
+        "1996—2004 II",
+        "1989—1996 I"
+      ]
+    },
+    {
+      "Model": "Toronado",
+      "Generations": [
+        "1985—1992 IV",
+        "1978—1985 III",
+        "1970—1978 II",
+        "1966—1970 I"
+      ]
+    }
+  ]
+}

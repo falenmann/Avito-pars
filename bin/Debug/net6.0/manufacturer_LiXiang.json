@@ -1,0 +1,44 @@
+﻿{
+  "Make": "LiXiang",
+  "Models": [
+    {
+      "Model": "L6",
+      "Generations": [
+        "2024—2024 I"
+      ]
+    },
+    {
+      "Model": "L7",
+      "Generations": [
+        "2024—2024 I рестайлинг",
+        "2023—2024 I"
+      ]
+    },
+    {
+      "Model": "L8",
+      "Generations": [
+        "2024—2024 I рестайлинг",
+        "2022—2024 I"
+      ]
+    },
+    {
+      "Model": "L9",
+      "Generations": [
+        "2024—2024 I рестайлинг",
+        "2022—2024 I"
+      ]
+    },
+    {
+      "Model": "Mega",
+      "Generations": [
+        "2023—2024 I"
+      ]
+    },
+    {
+      "Model": "One",
+      "Generations": [
+        "2019—2024 I"
+      ]
+    }
+  ]
+}

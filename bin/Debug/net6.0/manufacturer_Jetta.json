@@ -1,0 +1,23 @@
+﻿{
+  "Make": "Jetta",
+  "Models": [
+    {
+      "Model": "VA3",
+      "Generations": [
+        "2019—2024 I"
+      ]
+    },
+    {
+      "Model": "VS5",
+      "Generations": [
+        "2019—2024 I"
+      ]
+    },
+    {
+      "Model": "VS7",
+      "Generations": [
+        "2019—2024 I"
+      ]
+    }
+  ]
+}

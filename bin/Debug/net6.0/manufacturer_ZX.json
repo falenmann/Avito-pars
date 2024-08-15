@@ -1,0 +1,30 @@
+﻿{
+  "Make": "ZX",
+  "Models": [
+    {
+      "Model": "Admiral",
+      "Generations": [
+        "2005—2009 I"
+      ]
+    },
+    {
+      "Model": "GrandLion",
+      "Generations": [
+        "2021—2024 I"
+      ]
+    },
+    {
+      "Model": "GrandTiger",
+      "Generations": [
+        "2007—2013 I"
+      ]
+    },
+    {
+      "Model": "Landmark",
+      "Generations": [
+        "2009—2011 I рестайлинг",
+        "2005—2009 I"
+      ]
+    }
+  ]
+}

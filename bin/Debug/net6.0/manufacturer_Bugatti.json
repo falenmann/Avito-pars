@@ -1,0 +1,29 @@
+﻿{
+  "Make": "Bugatti",
+  "Models": [
+    {
+      "Model": "Chiron",
+      "Generations": [
+        "2016—2024 I"
+      ]
+    },
+    {
+      "Model": "Divo",
+      "Generations": [
+        "2018—2021 I"
+      ]
+    },
+    {
+      "Model": "Veyron",
+      "Generations": [
+        "2003—2015 I"
+      ]
+    },
+    {
+      "Model": "W16 Mistral",
+      "Generations": [
+        "2024—2024 I"
+      ]
+    }
+  ]
+}

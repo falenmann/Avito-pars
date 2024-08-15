@@ -1,0 +1,93 @@
+﻿{
+  "Make": "Rover",
+  "Models": [
+    {
+      "Model": "100",
+      "Generations": [
+        "1994—2000 I"
+      ]
+    },
+    {
+      "Model": "200",
+      "Generations": [
+        "1995—1999 III",
+        "1989—1999 II",
+        "1984—1989 I"
+      ]
+    },
+    {
+      "Model": "25",
+      "Generations": [
+        "1999—2005 I"
+      ]
+    },
+    {
+      "Model": "400",
+      "Generations": [
+        "1995—2000 II",
+        "1990—1998 I"
+      ]
+    },
+    {
+      "Model": "45",
+      "Generations": [
+        "1999—2005 I"
+      ]
+    },
+    {
+      "Model": "600",
+      "Generations": [
+        "1993—1999 I"
+      ]
+    },
+    {
+      "Model": "75",
+      "Generations": [
+        "2004—2005 I рестайлинг",
+        "1999—2004 I"
+      ]
+    },
+    {
+      "Model": "800",
+      "Generations": [
+        "1986—1999 I"
+      ]
+    },
+    {
+      "Model": "MGF",
+      "Generations": [
+        "1995—2000 I"
+      ]
+    },
+    {
+      "Model": "Maestro",
+      "Generations": [
+        "1991—1997 I"
+      ]
+    },
+    {
+      "Model": "Mini MK",
+      "Generations": [
+        "1989—2000 I"
+      ]
+    },
+    {
+      "Model": "Montego",
+      "Generations": [
+        "1988—1994 I"
+      ]
+    },
+    {
+      "Model": "SD1",
+      "Generations": [
+        "1976—1986 I"
+      ]
+    },
+    {
+      "Model": "Streetwise",
+      "Generations": [
+        "2003—2005 I"
+      ]
+    }
+  ]
+}

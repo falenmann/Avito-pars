@@ -1,0 +1,41 @@
+﻿{
+  "Make": "Oshan",
+  "Models": [
+    {
+      "Model": "Cosmos",
+      "Generations": [
+        "2018—2023 I"
+      ]
+    },
+    {
+      "Model": "X5",
+      "Generations": [
+        "2020—2024 I"
+      ]
+    },
+    {
+      "Model": "X5 Plus",
+      "Generations": [
+        "2022—2024 I"
+      ]
+    },
+    {
+      "Model": "X7",
+      "Generations": [
+        "2019—2024 I"
+      ]
+    },
+    {
+      "Model": "X7 Plus",
+      "Generations": [
+        "2021—2024 I"
+      ]
+    },
+    {
+      "Model": "Z6",
+      "Generations": [
+        "2022—2024 I"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+﻿{
+  "Make": "Cupra",
+  "Models": [
+    {
+      "Model": "Ateca",
+      "Generations": [
+        "2020—2024 I рестайлинг",
+        "2018—2020 I"
+      ]
+    },
+    {
+      "Model": "Born",
+      "Generations": [
+        "2021—2024 I"
+      ]
+    },
+    {
+      "Model": "Formentor",
+      "Generations": [
+        "2020—2024 I"
+      ]
+    },
+    {
+      "Model": "Leon",
+      "Generations": [
+        "2020—2024 I"
+      ]
+    }
+  ]
+}

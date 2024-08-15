@@ -1,0 +1,17 @@
+﻿{
+  "Make": "Steyr",
+  "Models": [
+    {
+      "Model": "120",
+      "Generations": [
+        "1935—1941 I"
+      ]
+    },
+    {
+      "Model": "50",
+      "Generations": [
+        "1936—1940 I"
+      ]
+    }
+  ]
+}

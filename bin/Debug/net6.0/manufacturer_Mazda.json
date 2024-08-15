@@ -1,0 +1,648 @@
+﻿{
+  "Make": "Mazda",
+  "Models": [
+    {
+      "Model": "1000",
+      "Generations": [
+        "1967—1977 I"
+      ]
+    },
+    {
+      "Model": "121",
+      "Generations": [
+        "1996—2003 III",
+        "1991—1996 II",
+        "1987—1991 I"
+      ]
+    },
+    {
+      "Model": "1300",
+      "Generations": [
+        "1975—1977 I"
+      ]
+    },
+    {
+      "Model": "2",
+      "Generations": [
+        "2019—2024 III рестайлинг",
+        "2014—2019 III",
+        "2010—2014 II рестайлинг",
+        "2007—2010 II",
+        "2005—2007 I рестайлинг",
+        "2003—2005 I"
+      ]
+    },
+    {
+      "Model": "3",
+      "Generations": [
+        "2019—2024 BP",
+        "2016—2019 BM рестайлинг",
+        "2013—2016 BM",
+        "2011—2013 BL рестайлинг",
+        "2008—2011 BL",
+        "2006—2009 BK рестайлинг",
+        "2003—2006 BK"
+      ]
+    },
+    {
+      "Model": "3 MPS",
+      "Generations": [
+        "2011—2013 II рестайлинг",
+        "2009—2011 II",
+        "2006—2009 I"
+      ]
+    },
+    {
+      "Model": "323",
+      "Generations": [
+        "2001—2003 BJ рестайлинг",
+        "1998—2001 BJ",
+        "1994—2000 BA",
+        "1989—1995 BG",
+        "1985—1993 BF",
+        "1980—1985 BD",
+        "1977—1986 FA"
+      ]
+    },
+    {
+      "Model": "5",
+      "Generations": [
+        "2010—2018 II",
+        "2007—2010 I рестайлинг",
+        "2005—2007 I"
+      ]
+    },
+    {
+      "Model": "6",
+      "Generations": [
+        "2018—2024 GJ рестайлинг 2",
+        "2015—2018 GJ рестайлинг",
+        "2012—2015 GJ",
+        "2009—2013 GH рестайлинг",
+        "2007—2009 GH",
+        "2005—2008 GG рестайлинг",
+        "2002—2005 GG"
+      ]
+    },
+    {
+      "Model": "6 MPS",
+      "Generations": [
+        "2005—2008 I"
+      ]
+    },
+    {
+      "Model": "616",
+      "Generations": [
+        "1970—1978 I"
+      ]
+    },
+    {
+      "Model": "626",
+      "Generations": [
+        "1997—2002 GF",
+        "1991—1997 GE",
+        "1987—1996 GD",
+        "1982—1987 GC",
+        "1979—1982 CB"
+      ]
+    },
+    {
+      "Model": "818",
+      "Generations": [
+        "1974—1978 I"
+      ]
+    },
+    {
+      "Model": "929",
+      "Generations": [
+        "1987—1992 HC",
+        "1981—1987 HB",
+        "1978—1988 LA4"
+      ]
+    },
+    {
+      "Model": "AZ-Offroad",
+      "Generations": [
+        "1998—2014 I"
+      ]
+    },
+    {
+      "Model": "AZ-Wagon",
+      "Generations": [
+        "2008—2012 IV",
+        "2005—2008 III рестайлинг",
+        "2003—2005 III",
+        "2001—2003 II рестайлинг",
+        "1999—2001 II",
+        "1997—1998 I рестайлинг",
+        "1994—1997 I"
+      ]
+    },
+    {
+      "Model": "Atenza",
+      "Generations": [
+        "2018—2019 III рестайлинг 2",
+        "2014—2018 III рестайлинг",
+        "2012—2014 III",
+        "2008—2012 II",
+        "2002—2008 I"
+      ]
+    },
+    {
+      "Model": "Autozam AZ-1",
+      "Generations": [
+        "1992—1998 I"
+      ]
+    },
+    {
+      "Model": "Autozam AZ-3",
+      "Generations": [
+        "1991—1998 I"
+      ]
+    },
+    {
+      "Model": "Axela",
+      "Generations": [
+        "2016—2019 III рестайлинг",
+        "2013—2016 III",
+        "2009—2013 II",
+        "2003—2009 I"
+      ]
+    },
+    {
+      "Model": "B-Series",
+      "Generations": [
+        "1997—2006 UN",
+        "1985—1998 UF"
+      ]
+    },
+    {
+      "Model": "BT-50",
+      "Generations": [
+        "2015—2020 II рестайлинг",
+        "2011—2015 II",
+        "2008—2011 I рестайлинг",
+        "2006—2008 I"
+      ]
+    },
+    {
+      "Model": "Biante",
+      "Generations": [
+        "2008—2018 I"
+      ]
+    },
+    {
+      "Model": "Bongo",
+      "Generations": [
+        "2020—2024 V",
+        "1999—2020 IV",
+        "1983—1999 III",
+        "1977—1983 II",
+        "1966—1975 I"
+      ]
+    },
+    {
+      "Model": "Bongo Brawny",
+      "Generations": [
+        "2019—2024 V",
+        "1999—2010 IV",
+        "1990—1998 III рестайлинг"
+      ]
+    },
+    {
+      "Model": "Bongo Friendee",
+      "Generations": [
+        "1999—2005 I рестайлинг",
+        "1995—1999 I"
+      ]
+    },
+    {
+      "Model": "CX-3",
+      "Generations": [
+        "2018—2024 I рестайлинг",
+        "2015—2018 I"
+      ]
+    },
+    {
+      "Model": "CX-30",
+      "Generations": [
+        "2019—2024 I"
+      ]
+    },
+    {
+      "Model": "CX-4",
+      "Generations": [
+        "2019—2024 I рестайлинг",
+        "2016—2019 I"
+      ]
+    },
+    {
+      "Model": "CX-5",
+      "Generations": [
+        "2021—2024 II рестайлинг",
+        "2017—2022 II",
+        "2015—2017 I рестайлинг",
+        "2011—2015 I"
+      ]
+    },
+    {
+      "Model": "CX-50",
+      "Generations": [
+        "2021—2024 I"
+      ]
+    },
+    {
+      "Model": "CX-60",
+      "Generations": [
+        "2022—2024 I"
+      ]
+    },
+    {
+      "Model": "CX-7",
+      "Generations": [
+        "2009—2012 I рестайлинг",
+        "2006—2009 I"
+      ]
+    },
+    {
+      "Model": "CX-8",
+      "Generations": [
+        "2022—2024 I рестайлинг",
+        "2017—2022 I"
+      ]
+    },
+    {
+      "Model": "CX-9",
+      "Generations": [
+        "2020—2024 II рестайлинг",
+        "2016—2021 II",
+        "2012—2016 I рестайлинг",
+        "2006—2012 I"
+      ]
+    },
+    {
+      "Model": "CX-90",
+      "Generations": [
+        "2023—2024 I"
+      ]
+    },
+    {
+      "Model": "Capella",
+      "Generations": [
+        "1997—2002 GF",
+        "1994—1997 CG",
+        "1987—1997 GD",
+        "1982—1987 GC"
+      ]
+    },
+    {
+      "Model": "Carol",
+      "Generations": [
+        "2015—2021 VII",
+        "2009—2014 VI",
+        "2004—2009 V",
+        "1998—2004 IV",
+        "1989—1998 III"
+      ]
+    },
+    {
+      "Model": "Chantez",
+      "Generations": [
+        "1972—1976 I"
+      ]
+    },
+    {
+      "Model": "Cosmo",
+      "Generations": [
+        "1981—1985 HB",
+        "1976—1980 CD"
+      ]
+    },
+    {
+      "Model": "Cronos",
+      "Generations": [
+        "1991—1995 I"
+      ]
+    },
+    {
+      "Model": "Demio",
+      "Generations": [
+        "2014—2019 IDJ",
+        "2007—2014 DE",
+        "2002—2007 IDY",
+        "1996—2003 DW"
+      ]
+    },
+    {
+      "Model": "Efini MS-6",
+      "Generations": [
+        "1991—1994 I"
+      ]
+    },
+    {
+      "Model": "Efini MS-8",
+      "Generations": [
+        "1992—1997 I"
+      ]
+    },
+    {
+      "Model": "Efini MS-9",
+      "Generations": [
+        "1991—1993 I"
+      ]
+    },
+    {
+      "Model": "Etude",
+      "Generations": [
+        "1987—1989 I"
+      ]
+    },
+    {
+      "Model": "Eunos 100",
+      "Generations": [
+        "1989—1994 I"
+      ]
+    },
+    {
+      "Model": "Eunos 300",
+      "Generations": [
+        "1989—1992 I"
+      ]
+    },
+    {
+      "Model": "Eunos 500",
+      "Generations": [
+        "1991—1996 I"
+      ]
+    },
+    {
+      "Model": "Eunos 800",
+      "Generations": [
+        "1993—1997 I"
+      ]
+    },
+    {
+      "Model": "Eunos Cosmo",
+      "Generations": [
+        "1990—1995 I"
+      ]
+    },
+    {
+      "Model": "Eunos Presso",
+      "Generations": [
+        "1991—1998 I"
+      ]
+    },
+    {
+      "Model": "Familia",
+      "Generations": [
+        "2018—2024 XP16",
+        "2007—2018 Y12",
+        "1999—2008 Y11",
+        "1998—2004 BJ",
+        "1994—1999 BH",
+        "1989—1994 BG",
+        "1985—1994 BF"
+      ]
+    },
+    {
+      "Model": "Flair",
+      "Generations": [
+        "2017—2022 II",
+        "2014—2017 I рестайлинг",
+        "2012—2014 I"
+      ]
+    },
+    {
+      "Model": "Flair Crossover",
+      "Generations": [
+        "2014—2020 I"
+      ]
+    },
+    {
+      "Model": "Flair Wagon",
+      "Generations": [
+        "2017—2023 III",
+        "2015—2018 II рестайлинг",
+        "2013—2015 II",
+        "2012—2013 I"
+      ]
+    },
+    {
+      "Model": "Lantis",
+      "Generations": [
+        "1993—1997 I"
+      ]
+    },
+    {
+      "Model": "Laputa",
+      "Generations": [
+        "1998—2006 I"
+      ]
+    },
+    {
+      "Model": "Levante",
+      "Generations": [
+        "1997—2001 II",
+        "1988—1997 I"
+      ]
+    },
+    {
+      "Model": "Luce",
+      "Generations": [
+        "1986—1991 V",
+        "1981—1986 IV",
+        "1977—1981 III"
+      ]
+    },
+    {
+      "Model": "MPV",
+      "Generations": [
+        "2006—2016 III",
+        "2003—2006 II рестайлинг",
+        "1999—2003 II",
+        "1988—1999 I"
+      ]
+    },
+    {
+      "Model": "MX-3",
+      "Generations": [
+        "1991—2000 I"
+      ]
+    },
+    {
+      "Model": "MX-30",
+      "Generations": [
+        "2020—2024 I"
+      ]
+    },
+    {
+      "Model": "MX-5",
+      "Generations": [
+        "2015—2024 ND",
+        "2008—2015 NC рестайлинг",
+        "2005—2008 NC",
+        "2001—2005 NB рестайлинг",
+        "1998—2001 NB",
+        "1989—1998 NA"
+      ]
+    },
+    {
+      "Model": "MX-6",
+      "Generations": [
+        "1992—1997 I"
+      ]
+    },
+    {
+      "Model": "Millenia",
+      "Generations": [
+        "2000—2003 I рестайлинг",
+        "1994—2000 I"
+      ]
+    },
+    {
+      "Model": "Navajo",
+      "Generations": [
+        "1990—1994 I"
+      ]
+    },
+    {
+      "Model": "Persona",
+      "Generations": [
+        "1988—1992 I"
+      ]
+    },
+    {
+      "Model": "Premacy",
+      "Generations": [
+        "2010—2017 III",
+        "2007—2010 II рестайлинг",
+        "2005—2007 II",
+        "1999—2005 I"
+      ]
+    },
+    {
+      "Model": "Proceed",
+      "Generations": [
+        "1998—2006 V",
+        "1985—1998 IV",
+        "1977—1985 III",
+        "1965—1977 II",
+        "1961—1965 I"
+      ]
+    },
+    {
+      "Model": "Proceed Levante",
+      "Generations": [
+        "1997—2001 II",
+        "1995—1997 I"
+      ]
+    },
+    {
+      "Model": "Proceed Marvie",
+      "Generations": [
+        "1990—1999 I"
+      ]
+    },
+    {
+      "Model": "Protege",
+      "Generations": [
+        "1998—2004 BJ",
+        "1994—1999 BH",
+        "1989—1994 BG"
+      ]
+    },
+    {
+      "Model": "R360",
+      "Generations": [
+        "1960—1966 I"
+      ]
+    },
+    {
+      "Model": "RX-7",
+      "Generations": [
+        "1999—2002 FD рестайлинг",
+        "1992—1998 FD",
+        "1985—1992 FC",
+        "1979—1986 SA"
+      ]
+    },
+    {
+      "Model": "RX-8",
+      "Generations": [
+        "2008—2012 I рестайлинг",
+        "2003—2008 I"
+      ]
+    },
+    {
+      "Model": "Revue",
+      "Generations": [
+        "1990—1998 I"
+      ]
+    },
+    {
+      "Model": "Roadster",
+      "Generations": [
+        "2015—2024 ND",
+        "2005—2015 NC",
+        "1998—2005 NB",
+        "1989—1998 NA"
+      ]
+    },
+    {
+      "Model": "Savanna RX-7",
+      "Generations": [
+        "1989—1991 FC"
+      ]
+    },
+    {
+      "Model": "Scrum",
+      "Generations": [
+        "2015—2024 DG17",
+        "2005—2014 DG64",
+        "1999—2005 DG52",
+        "1991—1999 DL51"
+      ]
+    },
+    {
+      "Model": "Sentia",
+      "Generations": [
+        "1995—2000 HE",
+        "1991—1995 HD"
+      ]
+    },
+    {
+      "Model": "Spiano",
+      "Generations": [
+        "2002—2008 I"
+      ]
+    },
+    {
+      "Model": "Tribute",
+      "Generations": [
+        "2007—2011 II",
+        "2004—2007 I рестайлинг",
+        "2000—2004 I"
+      ]
+    },
+    {
+      "Model": "Verisa",
+      "Generations": [
+        "2004—2015 I"
+      ]
+    },
+    {
+      "Model": "Xedos 6",
+      "Generations": [
+        "1992—2000 I"
+      ]
+    },
+    {
+      "Model": "Xedos 9",
+      "Generations": [
+        "2000—2003 I рестайлинг",
+        "1993—2000 I"
+      ]
+    }
+  ]
+}

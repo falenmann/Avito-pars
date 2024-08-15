@@ -1,0 +1,23 @@
+﻿{
+  "Make": "ЛуАЗ",
+  "Models": [
+    {
+      "Model": "1302",
+      "Generations": [
+        "1990—2001 I"
+      ]
+    },
+    {
+      "Model": "967",
+      "Generations": [
+        "1965—1989 I"
+      ]
+    },
+    {
+      "Model": "969",
+      "Generations": [
+        "1966—1996 I"
+      ]
+    }
+  ]
+}

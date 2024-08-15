@@ -1,0 +1,110 @@
+﻿{
+  "Make": "Trumpchi",
+  "Models": [
+    {
+      "Model": "E9",
+      "Generations": [
+        "2023—2024 I"
+      ]
+    },
+    {
+      "Model": "Emkoo",
+      "Generations": [
+        "2022—2024 I"
+      ]
+    },
+    {
+      "Model": "Empow",
+      "Generations": [
+        "2021—2024 I"
+      ]
+    },
+    {
+      "Model": "GA4 Plus",
+      "Generations": [
+        "2021—2024 I"
+      ]
+    },
+    {
+      "Model": "GA6",
+      "Generations": [
+        "2019—2024 I"
+      ]
+    },
+    {
+      "Model": "GA8",
+      "Generations": [
+        "2020—2024 I"
+      ]
+    },
+    {
+      "Model": "GE3",
+      "Generations": [
+        "2017—2020 I"
+      ]
+    },
+    {
+      "Model": "GM8",
+      "Generations": [
+        "2017—2020 I"
+      ]
+    },
+    {
+      "Model": "GS3",
+      "Generations": [
+        "2022—2024 II",
+        "2017—2020 I"
+      ]
+    },
+    {
+      "Model": "GS3 Power",
+      "Generations": [
+        "2020—2023 I"
+      ]
+    },
+    {
+      "Model": "GS4",
+      "Generations": [
+        "2022—2024 II рестайлинг",
+        "2019—2024 II"
+      ]
+    },
+    {
+      "Model": "GS4 Coupe",
+      "Generations": [
+        "2019—2024 II"
+      ]
+    },
+    {
+      "Model": "GS4 Plus",
+      "Generations": [
+        "2021—2024 I"
+      ]
+    },
+    {
+      "Model": "GS8",
+      "Generations": [
+        "2021—2024 I"
+      ]
+    },
+    {
+      "Model": "M6",
+      "Generations": [
+        "2020—2021 I"
+      ]
+    },
+    {
+      "Model": "M6 Pro",
+      "Generations": [
+        "2021—2024 I"
+      ]
+    },
+    {
+      "Model": "M8",
+      "Generations": [
+        "2022—2024 II",
+        "2020—2022 I"
+      ]
+    }
+  ]
+}

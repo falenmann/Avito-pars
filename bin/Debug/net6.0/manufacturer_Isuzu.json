@@ -1,0 +1,158 @@
+﻿{
+  "Make": "Isuzu",
+  "Models": [
+    {
+      "Model": "Amigo",
+      "Generations": [
+        "1998—2000 II",
+        "1989—1994 I"
+      ]
+    },
+    {
+      "Model": "Aska",
+      "Generations": [
+        "1997—2002 IV",
+        "1994—1997 III",
+        "1990—1993 II",
+        "1983—1989 I"
+      ]
+    },
+    {
+      "Model": "Axiom",
+      "Generations": [
+        "2001—2004 I"
+      ]
+    },
+    {
+      "Model": "Bighorn",
+      "Generations": [
+        "1991—2002 II",
+        "1981—1991 I"
+      ]
+    },
+    {
+      "Model": "Campo",
+      "Generations": [
+        "1988—2002 I"
+      ]
+    },
+    {
+      "Model": "D-Max",
+      "Generations": [
+        "2020—2024 III",
+        "2017—2022 II рестайлинг",
+        "2012—2018 II",
+        "2008—2012 I рестайлинг",
+        "2002—2008 I"
+      ]
+    },
+    {
+      "Model": "ELF",
+      "Generations": [
+        "2007—2024 I"
+      ]
+    },
+    {
+      "Model": "Fargo",
+      "Generations": [
+        "1995—2002 II",
+        "1980—1995 I"
+      ]
+    },
+    {
+      "Model": "Filly",
+      "Generations": [
+        "1997—2005 I"
+      ]
+    },
+    {
+      "Model": "Gemini",
+      "Generations": [
+        "1997—2000 V",
+        "1993—1996 IV",
+        "1990—1993 III",
+        "1985—1990 II",
+        "1974—1987 I"
+      ]
+    },
+    {
+      "Model": "Impulse",
+      "Generations": [
+        "1990—1993 II",
+        "1983—1990 I"
+      ]
+    },
+    {
+      "Model": "MU",
+      "Generations": [
+        "1998—2004 II",
+        "1989—1999 I"
+      ]
+    },
+    {
+      "Model": "MU-X",
+      "Generations": [
+        "2020—2024 II",
+        "2013—2020 I"
+      ]
+    },
+    {
+      "Model": "Midi",
+      "Generations": [
+        "1980—1995 I"
+      ]
+    },
+    {
+      "Model": "Oasis",
+      "Generations": [
+        "1995—1999 I"
+      ]
+    },
+    {
+      "Model": "Piazza",
+      "Generations": [
+        "1990—1993 II",
+        "1980—1990 I"
+      ]
+    },
+    {
+      "Model": "Pickup (QL1032)",
+      "Generations": [
+        "2022—2024 I"
+      ]
+    },
+    {
+      "Model": "Rodeo",
+      "Generations": [
+        "1998—2004 II",
+        "1989—1998 I"
+      ]
+    },
+    {
+      "Model": "T17",
+      "Generations": [
+        "2021—2024 I"
+      ]
+    },
+    {
+      "Model": "Trooper",
+      "Generations": [
+        "1992—2002 II",
+        "1981—1991 I"
+      ]
+    },
+    {
+      "Model": "VehiCross",
+      "Generations": [
+        "1997—2001 I"
+      ]
+    },
+    {
+      "Model": "Wizard",
+      "Generations": [
+        "1998—2004 II",
+        "1990—1998 I"
+      ]
+    }
+  ]
+}

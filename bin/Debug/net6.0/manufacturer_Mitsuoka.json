@@ -1,0 +1,19 @@
+﻿{
+  "Make": "Mitsuoka",
+  "Models": [
+    {
+      "Model": "Galue",
+      "Generations": [
+        "2005—2020 III",
+        "1999—2004 II",
+        "1998—2002 I"
+      ]
+    },
+    {
+      "Model": "Le-Seyde",
+      "Generations": [
+        "1990—2001 I"
+      ]
+    }
+  ]
+}

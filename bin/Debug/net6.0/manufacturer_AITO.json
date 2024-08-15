@@ -1,0 +1,29 @@
+﻿{
+  "Make": "AITO",
+  "Models": [
+    {
+      "Model": "M5",
+      "Generations": [
+        "2021—2024 I"
+      ]
+    },
+    {
+      "Model": "M5 EV",
+      "Generations": [
+        "2021—2024 I"
+      ]
+    },
+    {
+      "Model": "M7",
+      "Generations": [
+        "2022—2024 I"
+      ]
+    },
+    {
+      "Model": "M9",
+      "Generations": [
+        "2023—2024 I"
+      ]
+    }
+  ]
+}

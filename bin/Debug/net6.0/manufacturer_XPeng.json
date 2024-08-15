@@ -1,0 +1,41 @@
+﻿{
+  "Make": "XPeng",
+  "Models": [
+    {
+      "Model": "G3",
+      "Generations": [
+        "2018—2021 I"
+      ]
+    },
+    {
+      "Model": "G6",
+      "Generations": [
+        "2023—2024 I"
+      ]
+    },
+    {
+      "Model": "G9",
+      "Generations": [
+        "2022—2024 I"
+      ]
+    },
+    {
+      "Model": "P5",
+      "Generations": [
+        "2021—2024 I"
+      ]
+    },
+    {
+      "Model": "P7",
+      "Generations": [
+        "2020—2024 I"
+      ]
+    },
+    {
+      "Model": "X9",
+      "Generations": [
+        "2024—2024 I"
+      ]
+    }
+  ]
+}

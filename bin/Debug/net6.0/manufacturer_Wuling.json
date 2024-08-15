@@ -1,0 +1,89 @@
+﻿{
+  "Make": "Wuling",
+  "Models": [
+    {
+      "Model": "EV50",
+      "Generations": [
+        "2022—2024 I"
+      ]
+    },
+    {
+      "Model": "Hongguang Plus",
+      "Generations": [
+        "2019—2024 I"
+      ]
+    },
+    {
+      "Model": "Hongguang S",
+      "Generations": [
+        "2013—2024 I"
+      ]
+    },
+    {
+      "Model": "Hongguang V",
+      "Generations": [
+        "2019—2024 I"
+      ]
+    },
+    {
+      "Model": "Jiachen",
+      "Generations": [
+        "2022—2024 I"
+      ]
+    },
+    {
+      "Model": "Longka",
+      "Generations": [
+        "2023—2024 I"
+      ]
+    },
+    {
+      "Model": "Mini EV",
+      "Generations": [
+        "2019—2024 I"
+      ]
+    },
+    {
+      "Model": "Rongguang",
+      "Generations": [
+        "2008—2024 I"
+      ]
+    },
+    {
+      "Model": "Star Asta",
+      "Generations": [
+        "2021—2024 I"
+      ]
+    },
+    {
+      "Model": "Sunshine",
+      "Generations": [
+        "2012—2024 II"
+      ]
+    },
+    {
+      "Model": "Victory",
+      "Generations": [
+        "2020—2024 I"
+      ]
+    },
+    {
+      "Model": "Xingchi",
+      "Generations": [
+        "2022—2024 I"
+      ]
+    },
+    {
+      "Model": "Xingguang",
+      "Generations": [
+        "2023—2024 I"
+      ]
+    },
+    {
+      "Model": "Zhengtu (Fighting)",
+      "Generations": [
+        "2021—2024 I"
+      ]
+    }
+  ]
+}

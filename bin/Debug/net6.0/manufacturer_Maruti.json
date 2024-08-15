@@ -1,0 +1,65 @@
+﻿{
+  "Make": "Maruti",
+  "Models": [
+    {
+      "Model": "1000",
+      "Generations": [
+        "1990—2000 I"
+      ]
+    },
+    {
+      "Model": "800",
+      "Generations": [
+        "1983—2012 I"
+      ]
+    },
+    {
+      "Model": "Alto",
+      "Generations": [
+        "2000—2012 I"
+      ]
+    },
+    {
+      "Model": "Baleno",
+      "Generations": [
+        "1999—2007 I"
+      ]
+    },
+    {
+      "Model": "Esteem",
+      "Generations": [
+        "1994—2007 I"
+      ]
+    },
+    {
+      "Model": "Gypsy",
+      "Generations": [
+        "1983—2019 I"
+      ]
+    },
+    {
+      "Model": "Omni",
+      "Generations": [
+        "1984—2019 I"
+      ]
+    },
+    {
+      "Model": "Versa",
+      "Generations": [
+        "2001—2009 I"
+      ]
+    },
+    {
+      "Model": "Wagon R",
+      "Generations": [
+        "1999—2024 I"
+      ]
+    },
+    {
+      "Model": "Zen",
+      "Generations": [
+        "1993—2006 I"
+      ]
+    }
+  ]
+}

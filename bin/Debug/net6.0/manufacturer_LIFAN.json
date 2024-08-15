@@ -1,0 +1,70 @@
+﻿{
+  "Make": "LIFAN",
+  "Models": [
+    {
+      "Model": "Breez (520)",
+      "Generations": [
+        "2005—2014 520"
+      ]
+    },
+    {
+      "Model": "Cebrium (720)",
+      "Generations": [
+        "2014—2018 720"
+      ]
+    },
+    {
+      "Model": "Celliya (530)",
+      "Generations": [
+        "2014—2018 530"
+      ]
+    },
+    {
+      "Model": "Murman",
+      "Generations": [
+        "2015—2022 820"
+      ]
+    },
+    {
+      "Model": "Myway",
+      "Generations": [
+        "2016—2022 I"
+      ]
+    },
+    {
+      "Model": "Smily (320)",
+      "Generations": [
+        "2014—2018 330 рестайлинг",
+        "2008—2015 320"
+      ]
+    },
+    {
+      "Model": "Solano",
+      "Generations": [
+        "2016—2018 650",
+        "2014—2016 630 рестайлинг",
+        "2008—2015 620"
+      ]
+    },
+    {
+      "Model": "X50",
+      "Generations": [
+        "2015—2019 I"
+      ]
+    },
+    {
+      "Model": "X60",
+      "Generations": [
+        "2016—2019 I рестайлинг 2",
+        "2015—2016 I рестайлинг",
+        "2011—2015 I"
+      ]
+    },
+    {
+      "Model": "X70",
+      "Generations": [
+        "2018—2020 I"
+      ]
+    }
+  ]
+}

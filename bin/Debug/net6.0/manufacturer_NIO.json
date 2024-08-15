@@ -1,0 +1,48 @@
+﻿{
+  "Make": "NIO",
+  "Models": [
+    {
+      "Model": "ES6",
+      "Generations": [
+        "2023—2024 II",
+        "2019—2023 I"
+      ]
+    },
+    {
+      "Model": "ES7",
+      "Generations": [
+        "2022—2024 I"
+      ]
+    },
+    {
+      "Model": "ES8",
+      "Generations": [
+        "2019—2023 I"
+      ]
+    },
+    {
+      "Model": "ET5",
+      "Generations": [
+        "2021—2024 I"
+      ]
+    },
+    {
+      "Model": "ET7",
+      "Generations": [
+        "2021—2024 I"
+      ]
+    },
+    {
+      "Model": "EС6",
+      "Generations": [
+        "2019—2024 I"
+      ]
+    },
+    {
+      "Model": "EС7",
+      "Generations": [
+        "2022—2024 I"
+      ]
+    }
+  ]
+}

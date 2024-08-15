@@ -1,0 +1,63 @@
+﻿{
+  "Make": "Renault Samsung",
+  "Models": [
+    {
+      "Model": "QM3",
+      "Generations": [
+        "2013—2019 I"
+      ]
+    },
+    {
+      "Model": "QM5",
+      "Generations": [
+        "2007—2016 I"
+      ]
+    },
+    {
+      "Model": "QM6",
+      "Generations": [
+        "2016—2020 I"
+      ]
+    },
+    {
+      "Model": "SM3",
+      "Generations": [
+        "2009—2020 II",
+        "2006—2009 I рестайлинг",
+        "2002—2006 I"
+      ]
+    },
+    {
+      "Model": "SM3 Z.E",
+      "Generations": [
+        "2017—2020 I рестайлинг",
+        "2011—2017 I"
+      ]
+    },
+    {
+      "Model": "SM5",
+      "Generations": [
+        "2005—2010 II",
+        "1998—2005 I"
+      ]
+    },
+    {
+      "Model": "SM6",
+      "Generations": [
+        "2016—2020 I"
+      ]
+    },
+    {
+      "Model": "SM7",
+      "Generations": [
+        "2014—2019 II рестайлинг"
+      ]
+    },
+    {
+      "Model": "XM3",
+      "Generations": [
+        "2020—2024 I"
+      ]
+    }
+  ]
+}

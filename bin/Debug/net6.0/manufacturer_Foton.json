@@ -1,0 +1,60 @@
+﻿{
+  "Make": "Foton",
+  "Models": [
+    {
+      "Model": "Alpha Van",
+      "Generations": [
+        "2006—2010 I"
+      ]
+    },
+    {
+      "Model": "General (Tunland) G9",
+      "Generations": [
+        "2021—2024 I"
+      ]
+    },
+    {
+      "Model": "Mars 7 (Tunland V7)",
+      "Generations": [
+        "2023—2024 I"
+      ]
+    },
+    {
+      "Model": "Mars 9 (Tunland V9)",
+      "Generations": [
+        "2023—2024 I"
+      ]
+    },
+    {
+      "Model": "Sauvana",
+      "Generations": [
+        "2015—2024 I"
+      ]
+    },
+    {
+      "Model": "Toano",
+      "Generations": [
+        "2015—2024 I"
+      ]
+    },
+    {
+      "Model": "Tunland",
+      "Generations": [
+        "2019—2024 II",
+        "2011—2018 I"
+      ]
+    },
+    {
+      "Model": "Tunland G7",
+      "Generations": [
+        "2022—2024 I"
+      ]
+    },
+    {
+      "Model": "View CS2",
+      "Generations": [
+        "2014—2018 I"
+      ]
+    }
+  ]
+}

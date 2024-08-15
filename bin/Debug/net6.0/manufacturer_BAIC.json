@@ -1,0 +1,138 @@
+﻿{
+  "Make": "BAIC",
+  "Models": [
+    {
+      "Model": "A1",
+      "Generations": [
+        "2012—2018 I"
+      ]
+    },
+    {
+      "Model": "BJ2020",
+      "Generations": [
+        "1989—2005 I"
+      ]
+    },
+    {
+      "Model": "BJ212",
+      "Generations": [
+        "1964—1987 I"
+      ]
+    },
+    {
+      "Model": "BJ30",
+      "Generations": [
+        "2020—2024 I"
+      ]
+    },
+    {
+      "Model": "BJ40",
+      "Generations": [
+        "2018—2024 I рестайлинг",
+        "2013—2019 I"
+      ]
+    },
+    {
+      "Model": "BJ40 Plus",
+      "Generations": [
+        "2019—2024 I"
+      ]
+    },
+    {
+      "Model": "BJ60",
+      "Generations": [
+        "2022—2024 I"
+      ]
+    },
+    {
+      "Model": "BJ80",
+      "Generations": [
+        "2016—2024 I"
+      ]
+    },
+    {
+      "Model": "BJ90",
+      "Generations": [
+        "2016—2024 I"
+      ]
+    },
+    {
+      "Model": "EU260",
+      "Generations": [
+        "2015—2017 I"
+      ]
+    },
+    {
+      "Model": "EU5",
+      "Generations": [
+        "2018—2022 I"
+      ]
+    },
+    {
+      "Model": "EU7",
+      "Generations": [
+        "2019—2024 I"
+      ]
+    },
+    {
+      "Model": "EV5",
+      "Generations": [
+        "2018—2024 I"
+      ]
+    },
+    {
+      "Model": "Kenbo 600",
+      "Generations": [
+        "2017—2024 I"
+      ]
+    },
+    {
+      "Model": "Luba (XB624)",
+      "Generations": [
+        "2000—2017 I"
+      ]
+    },
+    {
+      "Model": "Ruixiang X5",
+      "Generations": [
+        "2021—2024 I"
+      ]
+    },
+    {
+      "Model": "U5",
+      "Generations": [
+        "2017—2022 II"
+      ]
+    },
+    {
+      "Model": "U5 Plus",
+      "Generations": [
+        "2021—2024 I"
+      ]
+    },
+    {
+      "Model": "X35",
+      "Generations": [
+        "2019—2024 I"
+      ]
+    },
+    {
+      "Model": "X55",
+      "Generations": [
+        "2022—2024 I"
+      ]
+    },
+    {
+      "Model": "X7",
+      "Generations": [
+        "2020—2024 I"
+      ]
+    },
+    {
+      "Model": "X75",
+      "Generations": [
+        "2024—2024 I"
+      ]
+    }
+  ]
+}

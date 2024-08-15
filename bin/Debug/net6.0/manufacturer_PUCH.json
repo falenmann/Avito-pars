@@ -1,0 +1,19 @@
+﻿{
+  "Make": "PUCH",
+  "Models": [
+    {
+      "Model": "G-modell",
+      "Generations": [
+        "1989—2000 W463",
+        "1979—1992 W460"
+      ]
+    },
+    {
+      "Model": "Pinzgauer",
+      "Generations": [
+        "1987—2000 II",
+        "1971—1987 I"
+      ]
+    }
+  ]
+}

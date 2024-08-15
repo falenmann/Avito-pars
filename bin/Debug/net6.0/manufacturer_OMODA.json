@@ -1,0 +1,23 @@
+﻿{
+  "Make": "OMODA",
+  "Models": [
+    {
+      "Model": "C5",
+      "Generations": [
+        "2021—2024 I"
+      ]
+    },
+    {
+      "Model": "S5",
+      "Generations": [
+        "2022—2024 I"
+      ]
+    },
+    {
+      "Model": "S5 GT",
+      "Generations": [
+        "2023—2024 I"
+      ]
+    }
+  ]
+}

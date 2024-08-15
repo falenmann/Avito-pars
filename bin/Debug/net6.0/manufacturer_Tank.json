@@ -1,0 +1,29 @@
+﻿{
+  "Make": "Tank",
+  "Models": [
+    {
+      "Model": "300",
+      "Generations": [
+        "2021—2024 I"
+      ]
+    },
+    {
+      "Model": "400",
+      "Generations": [
+        "2023—2024 I"
+      ]
+    },
+    {
+      "Model": "500",
+      "Generations": [
+        "2022—2024 I"
+      ]
+    },
+    {
+      "Model": "700",
+      "Generations": [
+        "2024—2024 I"
+      ]
+    }
+  ]
+}

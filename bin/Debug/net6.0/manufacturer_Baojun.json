@@ -1,0 +1,53 @@
+﻿{
+  "Make": "Baojun",
+  "Models": [
+    {
+      "Model": "360",
+      "Generations": [
+        "2017—2021 I"
+      ]
+    },
+    {
+      "Model": "510",
+      "Generations": [
+        "2017—2024 I"
+      ]
+    },
+    {
+      "Model": "E100",
+      "Generations": [
+        "2017—2024 I"
+      ]
+    },
+    {
+      "Model": "E200",
+      "Generations": [
+        "2018—2024 I"
+      ]
+    },
+    {
+      "Model": "E300",
+      "Generations": [
+        "2020—2024 I"
+      ]
+    },
+    {
+      "Model": "RC-5",
+      "Generations": [
+        "2020—2024 I"
+      ]
+    },
+    {
+      "Model": "RS-3",
+      "Generations": [
+        "2019—2024 I"
+      ]
+    },
+    {
+      "Model": "RS-5",
+      "Generations": [
+        "2018—2024 I"
+      ]
+    }
+  ]
+}

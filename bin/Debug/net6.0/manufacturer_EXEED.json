@@ -1,0 +1,56 @@
+﻿{
+  "Make": "EXEED",
+  "Models": [
+    {
+      "Model": "LX",
+      "Generations": [
+        "2023—2024 I рестайлинг",
+        "2019—2024 I"
+      ]
+    },
+    {
+      "Model": "RX",
+      "Generations": [
+        "2023—2024 I"
+      ]
+    },
+    {
+      "Model": "Sterra ES",
+      "Generations": [
+        "2023—2024 I"
+      ]
+    },
+    {
+      "Model": "Sterra ET",
+      "Generations": [
+        "2024—2024 I"
+      ]
+    },
+    {
+      "Model": "TX",
+      "Generations": [
+        "2021—2024 I рестайлинг"
+      ]
+    },
+    {
+      "Model": "TXL",
+      "Generations": [
+        "2023—2024 I рестайлинг 2",
+        "2020—2024 I рестайлинг"
+      ]
+    },
+    {
+      "Model": "VX",
+      "Generations": [
+        "2023—2024 I рестайлинг",
+        "2021—2023 I"
+      ]
+    },
+    {
+      "Model": "Yaoguang",
+      "Generations": [
+        "2022—2024 I"
+      ]
+    }
+  ]
+}

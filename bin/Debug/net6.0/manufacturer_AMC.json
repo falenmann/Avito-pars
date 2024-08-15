@@ -1,0 +1,23 @@
+﻿{
+  "Make": "AMC",
+  "Models": [
+    {
+      "Model": "Eagle",
+      "Generations": [
+        "1979—1987 I"
+      ]
+    },
+    {
+      "Model": "Gremlin",
+      "Generations": [
+        "1970—1978 I"
+      ]
+    },
+    {
+      "Model": "Hornet",
+      "Generations": [
+        "1974—1975 I"
+      ]
+    }
+  ]
+}

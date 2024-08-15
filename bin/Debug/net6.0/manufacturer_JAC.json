@@ -1,0 +1,151 @@
+﻿{
+  "Make": "JAC",
+  "Models": [
+    {
+      "Model": "J2",
+      "Generations": [
+        "2010—2016 I"
+      ]
+    },
+    {
+      "Model": "J5",
+      "Generations": [
+        "2014—2019 I"
+      ]
+    },
+    {
+      "Model": "J7",
+      "Generations": [
+        "2020—2024 I"
+      ]
+    },
+    {
+      "Model": "JS3",
+      "Generations": [
+        "2023—2024 I"
+      ]
+    },
+    {
+      "Model": "JS4",
+      "Generations": [
+        "2020—2024 I"
+      ]
+    },
+    {
+      "Model": "JS6",
+      "Generations": [
+        "2022—2024 I"
+      ]
+    },
+    {
+      "Model": "Refine",
+      "Generations": [
+        "2006—2011 I"
+      ]
+    },
+    {
+      "Model": "Rein",
+      "Generations": [
+        "2011—2013 I рестайлинг",
+        "2007—2011 I"
+      ]
+    },
+    {
+      "Model": "S3",
+      "Generations": [
+        "2014—2023 I"
+      ]
+    },
+    {
+      "Model": "S3 Pro",
+      "Generations": [
+        "2022—2024 I"
+      ]
+    },
+    {
+      "Model": "S4",
+      "Generations": [
+        "2018—2024 I"
+      ]
+    },
+    {
+      "Model": "S5",
+      "Generations": [
+        "2018—2024 I рестайлинг",
+        "2013—2019 I"
+      ]
+    },
+    {
+      "Model": "S7",
+      "Generations": [
+        "2020—2024 I"
+      ]
+    },
+    {
+      "Model": "Sehol A5 Plus",
+      "Generations": [
+        "2021—2024 I"
+      ]
+    },
+    {
+      "Model": "Sehol X6",
+      "Generations": [
+        "2022—2024 I"
+      ]
+    },
+    {
+      "Model": "Sunray",
+      "Generations": [
+        "2012—2024 I"
+      ]
+    },
+    {
+      "Model": "T6",
+      "Generations": [
+        "2015—2024 I"
+      ]
+    },
+    {
+      "Model": "T8",
+      "Generations": [
+        "2023—2024 I"
+      ]
+    },
+    {
+      "Model": "T8 Pro",
+      "Generations": [
+        "2020—2024 I"
+      ]
+    },
+    {
+      "Model": "T9",
+      "Generations": [
+        "2023—2024 I"
+      ]
+    },
+    {
+      "Model": "iEV6",
+      "Generations": [
+        "2016—2020 I"
+      ]
+    },
+    {
+      "Model": "iEV7S",
+      "Generations": [
+        "2018—2023 I"
+      ]
+    },
+    {
+      "Model": "iEVA50",
+      "Generations": [
+        "2018—2020 I"
+      ]
+    },
+    {
+      "Model": "iEVS4",
+      "Generations": [
+        "2019—2022 I"
+      ]
+    }
+  ]
+}

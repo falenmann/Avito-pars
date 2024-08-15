@@ -1,0 +1,35 @@
+﻿{
+  "Make": "Denza",
+  "Models": [
+    {
+      "Model": "D9",
+      "Generations": [
+        "2022—2024 I"
+      ]
+    },
+    {
+      "Model": "D9 EV",
+      "Generations": [
+        "2022—2024 I"
+      ]
+    },
+    {
+      "Model": "N7",
+      "Generations": [
+        "2023—2024 I"
+      ]
+    },
+    {
+      "Model": "X",
+      "Generations": [
+        "2019—2022 I"
+      ]
+    },
+    {
+      "Model": "X EV",
+      "Generations": [
+        "2020—2022 I"
+      ]
+    }
+  ]
+}

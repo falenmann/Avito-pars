@@ -1,0 +1,173 @@
+﻿{
+  "Make": "Buick",
+  "Models": [
+    {
+      "Model": "Cascada",
+      "Generations": [
+        "2013—2019 I"
+      ]
+    },
+    {
+      "Model": "Century",
+      "Generations": [
+        "1997—2005 VI",
+        "1982—1996 V",
+        "1978—1982 IV",
+        "1973—1977 III"
+      ]
+    },
+    {
+      "Model": "Electra",
+      "Generations": [
+        "1985—1990 VI",
+        "1977—1984 V",
+        "1959—1960 I"
+      ]
+    },
+    {
+      "Model": "Enclave",
+      "Generations": [
+        "2017—2021 II",
+        "2013—2017 I рестайлинг",
+        "2007—2013 I"
+      ]
+    },
+    {
+      "Model": "Encore",
+      "Generations": [
+        "2012—2022 I рестайлинг",
+        "2012—2016 I"
+      ]
+    },
+    {
+      "Model": "Encore GX",
+      "Generations": [
+        "2019—2024 I"
+      ]
+    },
+    {
+      "Model": "Envision",
+      "Generations": [
+        "2020—2024 II",
+        "2016—2018 I"
+      ]
+    },
+    {
+      "Model": "Envista",
+      "Generations": [
+        "2022—2024 I"
+      ]
+    },
+    {
+      "Model": "Excelle",
+      "Generations": [
+        "2017—2024 III рестайлинг",
+        "2015—2017 III",
+        "2009—2015 II",
+        "2004—2007 I"
+      ]
+    },
+    {
+      "Model": "GL8",
+      "Generations": [
+        "2022—2024 IV",
+        "2017—2020 III"
+      ]
+    },
+    {
+      "Model": "LaCrosse",
+      "Generations": [
+        "2019—2023 III рестайлинг",
+        "2016—2019 III",
+        "2013—2016 II рестайлинг",
+        "2009—2013 II",
+        "2004—2009 I"
+      ]
+    },
+    {
+      "Model": "LeSabre",
+      "Generations": [
+        "2000—2005 VIII",
+        "1992—1999 VII",
+        "1986—1991 VI",
+        "1977—1985 V",
+        "1961—1964 II",
+        "1959—1960 I"
+      ]
+    },
+    {
+      "Model": "Park Avenue",
+      "Generations": [
+        "2007—2012 III",
+        "2002—2005 II рестайлинг",
+        "1996—2002 II",
+        "1991—1996 I"
+      ]
+    },
+    {
+      "Model": "Regal",
+      "Generations": [
+        "2017—2020 VI",
+        "2013—2017 V рестайлинг",
+        "2009—2013 V",
+        "1997—2008 IV",
+        "1988—1997 III",
+        "1978—1987 II",
+        "1973—1977 I"
+      ]
+    },
+    {
+      "Model": "Rendezvous",
+      "Generations": [
+        "2001—2007 I"
+      ]
+    },
+    {
+      "Model": "Riviera",
+      "Generations": [
+        "1994—1999 VIII",
+        "1985—1993 VII",
+        "1979—1985 VI",
+        "1971—1973 III",
+        "1966—1970 II"
+      ]
+    },
+    {
+      "Model": "Roadmaster",
+      "Generations": [
+        "1991—1996 VIII",
+        "1949—1953 V",
+        "1942—1948 IV"
+      ]
+    },
+    {
+      "Model": "Skylark",
+      "Generations": [
+        "1992—1998 VII",
+        "1986—1992 VI",
+        "1980—1985 V",
+        "1975—1979 IV"
+      ]
+    },
+    {
+      "Model": "Special",
+      "Generations": [
+        "1949—1958 II",
+        "1936—1949 I"
+      ]
+    },
+    {
+      "Model": "Velite 6",
+      "Generations": [
+        "2019—2021 I"
+      ]
+    },
+    {
+      "Model": "Wildcat",
+      "Generations": [
+        "1965—1970 II",
+        "1963—1964 I"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+﻿{
+  "Make": "Austin Healey",
+  "Models": [
+    {
+      "Model": "100",
+      "Generations": [
+        "1956—1959 I"
+      ]
+    },
+    {
+      "Model": "3000",
+      "Generations": [
+        "1964—1967 III",
+        "1961—1964 II",
+        "1959—1961 I"
+      ]
+    }
+  ]
+}

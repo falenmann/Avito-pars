@@ -1,0 +1,35 @@
+﻿{
+  "Make": "Haima",
+  "Models": [
+    {
+      "Model": "3",
+      "Generations": [
+        "2010—2013 I"
+      ]
+    },
+    {
+      "Model": "7",
+      "Generations": [
+        "2013—2016 I"
+      ]
+    },
+    {
+      "Model": "7X",
+      "Generations": [
+        "2020—2024 I"
+      ]
+    },
+    {
+      "Model": "8S",
+      "Generations": [
+        "2019—2024 I"
+      ]
+    },
+    {
+      "Model": "M3",
+      "Generations": [
+        "2014—2017 I"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+﻿{
+  "Make": "Jetour",
+  "Models": [
+    {
+      "Model": "Dashing",
+      "Generations": [
+        "2022—2024 I"
+      ]
+    },
+    {
+      "Model": "T2",
+      "Generations": [
+        "2023—2024 I"
+      ]
+    },
+    {
+      "Model": "Traveler",
+      "Generations": [
+        "2023—2024 I"
+      ]
+    },
+    {
+      "Model": "X70",
+      "Generations": [
+        "2019—2024 I рестайлинг",
+        "2018—2022 I"
+      ]
+    },
+    {
+      "Model": "X70 EV",
+      "Generations": [
+        "2018—2024 I"
+      ]
+    },
+    {
+      "Model": "X70 Plus",
+      "Generations": [
+        "2023—2024 I рестайлинг",
+        "2020—2024 I"
+      ]
+    },
+    {
+      "Model": "X70S",
+      "Generations": [
+        "2019—2024 I"
+      ]
+    },
+    {
+      "Model": "X90",
+      "Generations": [
+        "2019—2020 I"
+      ]
+    },
+    {
+      "Model": "X90 Plus",
+      "Generations": [
+        "2021—2024 I"
+      ]
+    },
+    {
+      "Model": "X95",
+      "Generations": [
+        "2020—2024 I"
+      ]
+    }
+  ]
+}

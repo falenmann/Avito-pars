@@ -1,0 +1,181 @@
+﻿{
+  "Make": "Ferrari",
+  "Models": [
+    {
+      "Model": "250 GTO",
+      "Generations": [
+        "1962—1964 I"
+      ]
+    },
+    {
+      "Model": "288 GTO",
+      "Generations": [
+        "1984—1987 I"
+      ]
+    },
+    {
+      "Model": "296 GTB",
+      "Generations": [
+        "2021—2024 I"
+      ]
+    },
+    {
+      "Model": "328",
+      "Generations": [
+        "1985—1989 I"
+      ]
+    },
+    {
+      "Model": "348",
+      "Generations": [
+        "1989—1995 I"
+      ]
+    },
+    {
+      "Model": "360",
+      "Generations": [
+        "1999—2005 I"
+      ]
+    },
+    {
+      "Model": "456",
+      "Generations": [
+        "1998—2003 II",
+        "1992—1997 I"
+      ]
+    },
+    {
+      "Model": "458 Italia",
+      "Generations": [
+        "2009—2015 I"
+      ]
+    },
+    {
+      "Model": "458 Spider",
+      "Generations": [
+        "2009—2015 I"
+      ]
+    },
+    {
+      "Model": "488 GTB",
+      "Generations": [
+        "2015—2019 I"
+      ]
+    },
+    {
+      "Model": "488 Pista",
+      "Generations": [
+        "2018—2020 I"
+      ]
+    },
+    {
+      "Model": "575M Maranello",
+      "Generations": [
+        "2002—2006 I"
+      ]
+    },
+    {
+      "Model": "599 GTB Fiorano",
+      "Generations": [
+        "2006—2012 I"
+      ]
+    },
+    {
+      "Model": "612 Scaglietti",
+      "Generations": [
+        "2004—2011 I"
+      ]
+    },
+    {
+      "Model": "812 Superfast",
+      "Generations": [
+        "2017—2021 I"
+      ]
+    },
+    {
+      "Model": "California",
+      "Generations": [
+        "2014—2017 I рестайлинг",
+        "2008—2014 I"
+      ]
+    },
+    {
+      "Model": "F12berlinetta",
+      "Generations": [
+        "2012—2017 I"
+      ]
+    },
+    {
+      "Model": "F355",
+      "Generations": [
+        "1994—1999 I"
+      ]
+    },
+    {
+      "Model": "F430",
+      "Generations": [
+        "2004—2009 I"
+      ]
+    },
+    {
+      "Model": "F8 Spider",
+      "Generations": [
+        "2019—2024 I"
+      ]
+    },
+    {
+      "Model": "F8 Tributo",
+      "Generations": [
+        "2019—2023 I"
+      ]
+    },
+    {
+      "Model": "FF",
+      "Generations": [
+        "2011—2016 I"
+      ]
+    },
+    {
+      "Model": "GTC4Lusso",
+      "Generations": [
+        "2016—2020 I"
+      ]
+    },
+    {
+      "Model": "Mondial",
+      "Generations": [
+        "1980—1993 I"
+      ]
+    },
+    {
+      "Model": "Portofino",
+      "Generations": [
+        "2017—2023 I"
+      ]
+    },
+    {
+      "Model": "Purosangue",
+      "Generations": [
+        "2022—2024 I"
+      ]
+    },
+    {
+      "Model": "Roma",
+      "Generations": [
+        "2019—2024 I"
+      ]
+    },
+    {
+      "Model": "SF90 Stradale",
+      "Generations": [
+        "2019—2024 982"
+      ]
+    },
+    {
+      "Model": "Testarossa",
+      "Generations": [
+        "1984—1991 I"
+      ]
+    }
+  ]
+}

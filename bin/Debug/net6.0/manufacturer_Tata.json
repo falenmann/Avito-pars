@@ -1,0 +1,23 @@
+﻿{
+  "Make": "Tata",
+  "Models": [
+    {
+      "Model": "Indica",
+      "Generations": [
+        "1998—2007 I"
+      ]
+    },
+    {
+      "Model": "Telcoline",
+      "Generations": [
+        "2002—2007 I"
+      ]
+    },
+    {
+      "Model": "Xenon",
+      "Generations": [
+        "2007—2024 I"
+      ]
+    }
+  ]
+}

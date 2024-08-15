@@ -1,0 +1,124 @@
+﻿{
+  "Make": "MG",
+  "Models": [
+    {
+      "Model": "3 Cross",
+      "Generations": [
+        "2012—2014 I"
+      ]
+    },
+    {
+      "Model": "350",
+      "Generations": [
+        "2010—2015 I"
+      ]
+    },
+    {
+      "Model": "5",
+      "Generations": [
+        "2019—2024 II",
+        "2017—2024 I рестайлинг",
+        "2013—2018 I"
+      ]
+    },
+    {
+      "Model": "550",
+      "Generations": [
+        "2009—2017 I"
+      ]
+    },
+    {
+      "Model": "6",
+      "Generations": [
+        "2020—2024 II рестайлинг",
+        "2010—2017 I"
+      ]
+    },
+    {
+      "Model": "7",
+      "Generations": [
+        "2022—2024 I"
+      ]
+    },
+    {
+      "Model": "Cyberster",
+      "Generations": [
+        "2023—2024 I"
+      ]
+    },
+    {
+      "Model": "F",
+      "Generations": [
+        "1995—2002 I"
+      ]
+    },
+    {
+      "Model": "HS",
+      "Generations": [
+        "2018—2024 I"
+      ]
+    },
+    {
+      "Model": "MGA",
+      "Generations": [
+        "1955—1962 I"
+      ]
+    },
+    {
+      "Model": "MGB",
+      "Generations": [
+        "1966—1980 I"
+      ]
+    },
+    {
+      "Model": "Mulan",
+      "Generations": [
+        "2022—2024 I"
+      ]
+    },
+    {
+      "Model": "One",
+      "Generations": [
+        "2021—2024 I"
+      ]
+    },
+    {
+      "Model": "RX8",
+      "Generations": [
+        "2018—2024 I"
+      ]
+    },
+    {
+      "Model": "T60",
+      "Generations": [
+        "2021—2024 I"
+      ]
+    },
+    {
+      "Model": "TF",
+      "Generations": [
+        "2002—2005 I"
+      ]
+    },
+    {
+      "Model": "ZR",
+      "Generations": [
+        "2001—2005 I"
+      ]
+    },
+    {
+      "Model": "ZS",
+      "Generations": [
+        "2019—2024 II рестайлинг",
+        "2017—2021 II",
+        "2001—2005 I"
+      ]
+    },
+    {
+      "Model": "ZT",
+      "Generations": [
+        "2001—2005 I"
+      ]
+    }
+  ]
+}
